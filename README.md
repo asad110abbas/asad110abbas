@@ -15,7 +15,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
 - 🔥 **AI/ML Developer** with a passion for creating next-gen intelligent systems
 - 🐍 AGI lover | Deep expertise in GenAI, RAG, Computer Vision, NLP, DL, and model fine-tuning
