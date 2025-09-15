@@ -19,7 +19,8 @@
 
 - 🔥 **AI/ML Developer** with a passion for creating next-gen intelligent systems
 - 🐍 AGI lover | Deep expertise in GenAI, RAG, Computer Vision, NLP, DL, and model fine-tuning
-- 🏆 Featured Projects:  
+- 🏆 Featured Projects:
+   - [AI-CHATBOT (RAG-based)](https://github.com/asad110abbas/RAG-based-AI-Chat-Bot): Langchain Advanced AI RAG bot
    - [AI-ChatBot (Hybrid-based)](https://github.com/asad110abbas/AI-ChatBot): Advanced conversational AI using Hybrid Approach  
    - [Fine_Tuning-Deberta-Base](https://github.com/asad110abbas/Fine_Tuning-Deberta-Base): Powerful NLP model fine-tuning
 
@@ -29,6 +30,12 @@
 
 <table>
   <tr>
+    <td align="center">
+      <a href="https://github.com/asad110abbas/RAG-based-AI-Chat-Bot">
+        <img src="https://img.shields.io/badge/AI--CHATBOT-RAG-blue?style=for-the-badge">
+        <br><sub>RAG-based AI Chatbot</sub>
+      </a>
+    </td>
     <td align="center">
       <a href="https://github.com/asad110abbas/AI-ChatBot">
         <img src="https://img.shields.io/badge/AI--ChatBot-Hybrid-blue?style=for-the-badge">
