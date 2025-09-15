@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&center=true&vCenter=true&width=850&height=60&lines=Hi+%F0%9F%91%8B,+I'm+Syed+Asad+Abbas%3B+AI+ML+Engineer%3B+Building+Future+AI%3B+GenAI+%7C+Agentic+AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&center=true&vCenter=true&width=850&height=60&lines=Hi+%F0%9F%91%8B,+I'm+Syed+Asad+Abbas%3B+AI+ML+Engineer%3B+Researching+AGI%3B+GenAI+%7C+Agentic+AI+Enthusiast" alt="Typing SVG" />
 </p>
 
 
@@ -20,7 +20,7 @@
 - 🔥 **AI/ML Developer** with a passion for creating next-gen intelligent systems
 - 🐍 AGI lover | Deep expertise in GenAI, RAG, Computer Vision, NLP, DL, and model fine-tuning
 - 🏆 Featured Projects:  
-   - [AI-ChatBot (Hybrid-based)](https://github.com/asad110abbas/AI-ChatBot): Advanced conversational AI using Retrieval-Augmented Generation  
+   - [AI-ChatBot (Hybrid-based)](https://github.com/asad110abbas/AI-ChatBot): Advanced conversational AI using Hybrid Approach  
    - [Fine_Tuning-Deberta-Base](https://github.com/asad110abbas/Fine_Tuning-Deberta-Base): Powerful NLP model fine-tuning
 
 ---
@@ -84,4 +84,4 @@
 
 ---
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FF6800&center=true&vCenter=true&width=400&lines=Let's+build+smarter+AI+together!" alt="Typing SVG" /></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FF6800&center=true&vCenter=true&width=400&lines=Let's+Future is AGI!" alt="Typing SVG" /></p>
