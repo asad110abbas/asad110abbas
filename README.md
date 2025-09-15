@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&center=true&vCenter=true&width=550&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Syed+Asad+Abbas;AI+ML+Engineer;Building+Future+with+AI;GenAI+%7C+Agentic+AI+%7C+DL+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&center=true&vCenter=true&width=550&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Syed+Asad+Abbas;AI+ML+Engineer;Building+Future+AI+Systems;GenAI+%7C+Agentic+AI+%7C+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -9,17 +9,17 @@
 ---
 
 <p align="center">
-  <strong>🚀 AI/ML Engineer | Python Expert | AGI Fan</strong>
+  <strong>🚀 AI/ML Specialist | Python Expert | AGI Fan</strong>
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🔥 **AI/ML Engineer** with a passion for creating next-gen intelligent systems
-- 🐍 Python lover | Deep expertise in GenAI, RAG, Computer Vision, NLP, and model fine-tuning
+- 🔥 **AI/ML Developer** with a passion for creating next-gen intelligent systems
+- 🐍 AGI lover | Deep expertise in GenAI, RAG, Computer Vision, NLP, and model fine-tuning
 - 🏆 Featured Projects:  
-   - [AI-ChatBot (RAG-based)](https://github.com/asad110abbas/AI-ChatBot): Advanced conversational AI using Retrieval-Augmented Generation  
+   - [AI-ChatBot (Hybrid Chatbot)](https://github.com/asad110abbas/AI-ChatBot): Advanced conversational AI using Retrieval-Augmented Generation  
    - [Fine_Tuning-Deberta-Base](https://github.com/asad110abbas/Fine_Tuning-Deberta-Base): Powerful NLP model fine-tuning
 
 ---
