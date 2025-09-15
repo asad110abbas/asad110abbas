@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&center=true&vCenter=true&width=650&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Syed+Asad+Abbas;AI+ML+DL+Developer;Building+the+Future+with+AI+Systems;AGI+%7C+RAG+%7C+GenAI+%7C+Vision+%7C+DL+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&center=true&vCenter=true&width=650&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Syed+Asad+Abbas;AI+ML+Engineer;Building+the+Future+with+AI+Systems;GenAI+%7C+Vision+%7C+NLP+%7C+DL+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -9,15 +9,14 @@
 ---
 
 <p align="center">
-  <strong>🚀 AI/ML Engineer | Python Expert | GenAI & RAG Fan</strong><br>
-  <em>Let's build smarter AI together!</em>
+  <strong>🚀 AI/ML Engineer | Python Expert | AGI Fan</strong>
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🔥 **AI/ML/DL Developer** with a passion for creating next-gen intelligent systems
+- 🔥 **AI/ML Engineer** with a passion for creating next-gen intelligent systems
 - 🐍 Python lover | Deep expertise in GenAI, RAG, Computer Vision, NLP, and model fine-tuning
 - 🏆 Featured Projects:  
    - [AI-ChatBot (RAG-based)](https://github.com/asad110abbas/AI-ChatBot): Advanced conversational AI using Retrieval-Augmented Generation  
