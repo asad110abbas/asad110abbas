@@ -67,7 +67,6 @@
 - **Human hand-off:** smart escalation with ticket and transcript
 - **Agent dashboard:** tickets, call records, analytics, exports
 
-<img src="https://img.shields.io/badge/Vercel-Deployed-000000?style=flat-square&logo=vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-Containerized-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gemini-Voice-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
 <img src="https://img.shields.io/badge/ChromaDB-RAG-FF6F00?style=flat-square"/>
@@ -102,7 +101,7 @@
 
 | Platform | How BRIHA uses it |
 |---|---|
-| <img src="https://skillicons.dev/icons?i=vercel" width="22"/> **Vercel** | Both flagship apps (Briha AI Chatbot and Briha AI Voice Assistant) deployed to the cloud |
+| <img src="https://skillicons.dev/icons?i=vercel" width="22"/> **Vercel** | Briha AI Chatbot deployed to the cloud |
 | <img src="https://skillicons.dev/icons?i=docker" width="22"/> **Docker / Compose** | Every service containerized: API + PostgreSQL + Nginx stacks, reproducible on any machine or VM |
 | <img src="https://skillicons.dev/icons?i=githubactions" width="22"/> **GitHub Actions** | CI on every push: tests, type checks and builds across Python, TypeScript, Java, Go and R repos |
 | <img src="https://skillicons.dev/icons?i=nginx" width="22"/> **Nginx + Linux VM** | HTTPS reverse proxy, static frontend serving and on-prem deployment for private data |
