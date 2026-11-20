@@ -41,7 +41,7 @@
 
 <a href="https://github.com/asad110abbas/briha-ai-chatbot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=asad110abbas&repo=briha-ai-chatbot&bg_color=0B1024&title_color=00F0FF&text_color=E6ECFF&icon_color=FF2E97&border_color=8B5CF6&show_owner=false" width="100%"/></a>
 
-### 🤖 Briha AI Chatbot
+### Briha AI Chatbot
 *Ask "aaj kitna bika?" and get a **verified** answer in seconds.*
 
 - **4-agent pipeline:** Understand → Retrieve → Validate → Respond
@@ -59,7 +59,7 @@
 
 <a href="https://github.com/asad110abbas/briha-ai-voice-assistant"><img src="https://github-readme-stats.vercel.app/api/pin/?username=asad110abbas&repo=briha-ai-voice-assistant&bg_color=0B1024&title_color=00F0FF&text_color=E6ECFF&icon_color=FF2E97&border_color=8B5CF6&show_owner=false" width="100%"/></a>
 
-### 🎙️ Briha AI Voice Assistant
+### Briha AI Voice Assistant
 *A support agent that **listens, thinks and speaks** in English, Urdu and Roman Urdu.*
 
 - **Live voice:** audio over WebSockets → Gemini with function calling
@@ -78,7 +78,7 @@
 
 <a href="https://github.com/asad110abbas/seo-automation-bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=asad110abbas&repo=seo-automation-bot&bg_color=0B1024&title_color=00F0FF&text_color=E6ECFF&icon_color=FF2E97&border_color=8B5CF6&show_owner=false" width="49%" align="right"/></a>
 
-### 🔎 Briha SEO Automation Bot
+### Briha SEO Automation Bot
 *An entire SEO team replaced by **7 AI agents**, for local businesses.*
 
 - **Orchestrator + 7 agents:** audit, keywords, competitors, Google Business Profile, content, links, PDF reports
@@ -117,7 +117,7 @@
 </p>
 
 <details open>
-<summary><b>📊 Briha Data Lab: analytics, BI and machine learning</b></summary>
+<summary><b>Briha Data Lab: analytics, BI and machine learning</b></summary>
 <br/>
 
 | Module | What it does | Stack |
@@ -146,7 +146,7 @@
 
 </details>
 
-###  Briha Research: 
+### Briha Research
 
 *AI experiments: RAG, transformer fine-tuning, local LLMs, OCR and data mining. These are the foundations the flagship systems grew from.*
 
