@@ -146,20 +146,26 @@
 
 </details>
 
-<details>
-<summary><b>🧠 Briha Research: NLP, RAG and computer vision (click to expand)</b></summary>
-<br/>
+### 🧠 Briha Research: where BRIHA started
+
+*My first AI experiments: RAG, transformer fine-tuning, local LLMs, OCR and data mining. These are the foundations the flagship systems grew from.*
+
+<p align="center">
+  <a href="https://github.com/asad110abbas/RAG-based-AI-Chat-Bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=asad110abbas&repo=RAG-based-AI-Chat-Bot&bg_color=0B1024&title_color=00F0FF&text_color=E6ECFF&icon_color=FF2E97&border_color=1E2A4A" width="49%"/></a>
+  <a href="https://github.com/asad110abbas/Fine_Tuning-Deberta-Base"><img src="https://github-readme-stats.vercel.app/api/pin/?username=asad110abbas&repo=Fine_Tuning-Deberta-Base&bg_color=0B1024&title_color=00F0FF&text_color=E6ECFF&icon_color=FF2E97&border_color=1E2A4A" width="49%"/></a>
+  <a href="https://github.com/asad110abbas/AI-ChatBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=asad110abbas&repo=AI-ChatBot&bg_color=0B1024&title_color=00F0FF&text_color=E6ECFF&icon_color=FF2E97&border_color=1E2A4A" width="49%"/></a>
+  <a href="https://github.com/asad110abbas/OCR"><img src="https://github-readme-stats.vercel.app/api/pin/?username=asad110abbas&repo=OCR&bg_color=0B1024&title_color=00F0FF&text_color=E6ECFF&icon_color=FF2E97&border_color=1E2A4A" width="49%"/></a>
+</p>
 
 | Module | What it does | Stack |
 |---|---|---|
-| 🧠 [**RAG Knowledge Bot**](https://github.com/asad110abbas/RAG-based-AI-Chat-Bot) | Retrieval-augmented chatbot over custom documents | LangChain · OpenAI · Gradio |
-| 🎯 [**DeBERTa Fine-tuning**](https://github.com/asad110abbas/Fine_Tuning-Deberta-Base) | Transformer fine-tuned for review classification | PyTorch · Hugging Face |
-| 💬 [**Hybrid AI Chatbot**](https://github.com/asad110abbas/AI-ChatBot) | AI + rule-based conversational system | Python · NLP |
-| 👁️ [**OCR**](https://github.com/asad110abbas/OCR) | Multi-engine text extraction from images | OpenCV · OCR |
-| 🧍 [**Gender Identification**](https://github.com/asad110abbas/Gender_Identification) | Image classification model | Deep learning |
-| 🕸️ [**Web Mining**](https://github.com/asad110abbas/Web-Mining) · [**Data Mining**](https://github.com/asad110abbas/Data-Mining) | Scraping with pagination, Google Maps data mining | Python · Jupyter |
-
-</details>
+| 🧠 [**KnowledgeBot (RAG)**](https://github.com/asad110abbas/RAG-based-AI-Chat-Bot) | Chat with your own documents: retrieval + GPT-5-mini in a Gradio UI | LangChain · Chroma · OpenAI |
+| 🎯 [**DeBERTa Fine-tuning**](https://github.com/asad110abbas/Fine_Tuning-Deberta-Base) | Review classification: EDA, labelling, transformer fine-tuning | Hugging Face · PyTorch · NLTK |
+| 💬 [**Hybrid AI Chatbot**](https://github.com/asad110abbas/AI-ChatBot) | Semantic retrieval + local LLM, no paid APIs | llama.cpp · Sentence-Transformers |
+| 👁️ [**Multi-Engine OCR**](https://github.com/asad110abbas/OCR) | EasyOCR vs Tesseract vs PaddleOCR, plus formula → LaTeX | OpenCV · PaddleOCR · pix2tex |
+| 🗺️ [**Google Maps Data Mining**](https://github.com/asad110abbas/Data-Mining) | Lead-generation scraper with auto-scroll | Selenium · BeautifulSoup |
+| 🕸️ [**Web Mining**](https://github.com/asad110abbas/Web-Mining) | Paginated scraping pipeline to clean CSV | Requests · BeautifulSoup |
+| 🧍 [**Gender Identification**](https://github.com/asad110abbas/Gender_Identification) | Name-based gender enrichment via API, in batches | pandas · REST API |
 
 <details>
 <summary><b>🧪 Briha Labs: in development (click to expand)</b></summary>
