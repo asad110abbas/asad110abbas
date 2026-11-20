@@ -126,6 +126,8 @@
       <text x="284" y="19" text-anchor="middle" class="chip" style="fill:#FFB3D9">Voice AI</text>
       <rect x="348" width="112" height="28" rx="14" fill="#1A1440" stroke="#8B5CF6" stroke-opacity="0.6"/>
       <text x="404" y="19" text-anchor="middle" class="chip">Power BI</text>
+      <rect x="470" width="150" height="28" rx="14" fill="#0A2233" stroke="#00F0FF" stroke-opacity="0.6"/>
+      <text x="545" y="19" text-anchor="middle" class="chip" style="fill:#9FF8FF">Docker · Vercel</text>
     </g>
   </g>
 </svg>
