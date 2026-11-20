@@ -14,6 +14,8 @@
 
 </div>
 
+<img src="./assets/briha-stats.svg" width="100%" alt="BRIHA in numbers" />
+
 <img src="./assets/h-world.svg" width="100%" alt="01 PART OF BRIHA" />
 
 <div align="center">
@@ -69,6 +71,24 @@
 <img src="https://img.shields.io/badge/Docker-Containerized-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gemini-Voice-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
 <img src="https://img.shields.io/badge/ChromaDB-RAG-FF6F00?style=flat-square"/>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+<a href="https://github.com/asad110abbas/seo-automation-bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=asad110abbas&repo=seo-automation-bot&bg_color=0B1024&title_color=00F0FF&text_color=E6ECFF&icon_color=FF2E97&border_color=8B5CF6&show_owner=false" width="49%" align="right"/></a>
+
+### 🔎 Briha SEO Automation Bot
+*An entire SEO team replaced by **7 AI agents**, for local businesses.*
+
+- **Orchestrator + 7 agents:** audit, keywords, competitors, Google Business Profile, content, links, PDF reports
+- **Async at scale:** Celery + Redis jobs with live WebSocket progress
+- **Cost-aware:** per-run token and cost tracking, rate limits, JWT auth
+
+<img src="https://img.shields.io/badge/Groq-Llama_3.3-F55036?style=flat-square"/>
+<img src="https://img.shields.io/badge/FastAPI-Next.js_14-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-Compose-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 
 </td>
 </tr>
@@ -142,6 +162,18 @@
 
 </details>
 
+<details>
+<summary><b>🧪 Briha Labs: in development (click to expand)</b></summary>
+<br/>
+
+| Module | What it does | Status |
+|---|---|---|
+| 🏗️ **Briha App Builder** | Prompt-to-app AI builder: describe an app, get a working UI | 🔒 Private · in development |
+| 🤖 **Briha AI Chatbot (production)** | Live deployment of the flagship chatbot for a real business | 🔒 Private · deployed |
+| 🎙️ **Briha Voice Assistant (production)** | Live deployment of the flagship voice agent | 🔒 Private · deployed |
+
+</details>
+
 <img src="./assets/h-stack.svg" width="100%" alt="05 TECH ARSENAL" />
 
 <p align="center">
@@ -208,7 +240,7 @@ class SyedAsadAbbas:
 
 ### 🤝 Let's build the future together
 
-**Open to AI Engineering · Data Analytics · Full-Stack AI · Cloud roles**
+**All 26+ projects are part of BRIHA · Open to AI Engineering, Data Analytics, Full-Stack AI and Cloud roles**
 
 <a href="https://www.linkedin.com/in/syed-asad-abbas-28151b302"><img src="https://img.shields.io/badge/Let's_talk_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/asad110abbas?tab=repositories"><img src="https://img.shields.io/badge/Explore_BRIHA-8B5CF6?style=for-the-badge&logo=github&logoColor=white" /></a>
