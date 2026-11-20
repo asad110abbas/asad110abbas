@@ -1,172 +1,195 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1520,50:1F6FEB,100:00B39F&height=190&section=header&text=Syed%20Asad%20Abbas&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=AI%20%26%20Data%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header" />
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=1F6FEB&center=true&vCenter=true&width=760&height=55&lines=Hi+%F0%9F%91%8B+I'm+Syed+Asad+Abbas;AI+%26+Data+Engineer;LLM+Agents+%7C+RAG+%7C+Voice+AI;Data+Analytics+%7C+Power+BI+%7C+SQL" alt="Typing SVG" />
+<img src="./assets/briha-hero.svg" width="100%" alt="BRIHA — The New World in AGI — by Syed Asad Abbas" />
 
-**I build production AI systems and the data pipelines behind them, from multi-agent LLM chatbots and real-time voice assistants to forecasting models and BI dashboards.**
+<br/>
 
-<a href="https://www.linkedin.com/in/syed-asad-abbas-28151b302"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/asad110abbas?tab=repositories"><img src="https://img.shields.io/badge/All_Projects-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=700&color=00F0FF&center=true&vCenter=true&multiline=false&width=820&height=50&lines=%E2%9A%A1+BRIHA+%E2%80%94+The+New+World+in+AGI;%F0%9F%A4%96+Multi-Agent+LLM+Systems+that+never+invent+numbers;%F0%9F%8E%99%EF%B8%8F+Real-time+Voice+AI+in+English+%2B+Urdu;%F0%9F%93%8A+Data+Pipelines+%E2%80%A2+Forecasting+%E2%80%A2+Power+BI;%F0%9F%9A%80+From+idea+to+production%2C+end-to-end" alt="Typing SVG" /></a>
+
+<p>
+  <a href="https://www.linkedin.com/in/syed-asad-abbas-28151b302"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1024" /></a>
+  <a href="https://github.com/asad110abbas?tab=repositories"><img src="https://img.shields.io/badge/BRIHA-Universe-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1024" /></a>
+  <img src="https://komarev.com/ghpvc/?username=asad110abbas&label=Profile%20Views&color=FF2E97&style=for-the-badge&labelColor=0B1024" />
+  <img src="https://img.shields.io/github/followers/asad110abbas?style=for-the-badge&logo=github&label=Followers&color=00F0FF&labelColor=0B1024" />
+</p>
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-## 👨‍💻 About me
+## ⚡ What is BRIHA?
 
-- 🤖 **AI engineering:** multi-agent LLM pipelines, RAG, function calling, real-time voice AI (OpenAI GPT-5, Google Gemini, LangChain, Hugging Face)
-- 📊 **Data & analytics:** ETL pipelines, SQL analytics, forecasting, churn modeling, Power BI and Streamlit dashboards
-- 🛠️ **Full-stack delivery:** FastAPI and Spring Boot backends, React + TypeScript frontends, Docker deployments, CI with tests
-- 🎯 **What I care about:** AI answers you can trust (validation, grounding, guardrails) and code that's tested, documented and ready to ship
+> **BRIHA** is the name of my AI-driven universe: a growing family of intelligent systems I design and build
+> end-to-end, from **agents that reason over live business data** to **voices that talk to customers in their own language**.
+>
+> 🧠 *Think → Retrieve → Validate → Speak.* Every BRIHA system is built around one rule: **an AI answer is only as good as the proof behind it.**
 
----
+<table>
+<tr>
+<td width="33%" align="center">
+<h3>🧠 Agentic AI</h3>
+Multi-agent pipelines with tool use, self-validation and grounding checks
+</td>
+<td width="33%" align="center">
+<h3>🎙️ Voice AI</h3>
+Real-time, bilingual speech agents with RAG and human hand-off
+</td>
+<td width="33%" align="center">
+<h3>📊 Data Intelligence</h3>
+ETL, forecasting, ML models and BI dashboards that drive decisions
+</td>
+</tr>
+</table>
 
-## 🌟 Featured projects
+## 🧬 The BRIHA universe
+
+```mermaid
+flowchart LR
+    B(("⚡ BRIHA<br/>AGI Core")):::core
+    B --> C["🤖 Briha AI Chatbot<br/>multi-agent analytics"]:::ai
+    B --> V["🎙️ Briha Voice Assistant<br/>real-time bilingual voice"]:::ai
+    B --> D["📊 Data Intelligence"]:::data
+    D --> D1["Power BI · DAX"]:::leaf
+    D --> D2["Forecasting · Churn ML"]:::leaf
+    D --> D3["SQL · ETL · DuckDB"]:::leaf
+    B --> E["🧱 Engineering"]:::eng
+    E --> E1["TypeScript · React"]:::leaf
+    E --> E2["Java · Spring Boot"]:::leaf
+    E --> E3["Go · Python · R"]:::leaf
+    classDef core fill:#8B5CF6,stroke:#00F0FF,stroke-width:3px,color:#fff
+    classDef ai fill:#0B1024,stroke:#00F0FF,stroke-width:2px,color:#E6ECFF
+    classDef data fill:#0B1024,stroke:#FF2E97,stroke-width:2px,color:#E6ECFF
+    classDef eng fill:#0B1024,stroke:#8B5CF6,stroke-width:2px,color:#E6ECFF
+    classDef leaf fill:#12062A,stroke:#3B3F6B,color:#CDB8FF
+```
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## 🚀 Flagship: BRIHA AI
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [Briha AI Chatbot](https://github.com/asad110abbas/briha-ai-chatbot)
-A **4-agent LLM pipeline** that answers business questions from live company data in English and Roman Urdu.
-A validation agent and a numeric grounding check make sure every number comes from the source.
+<a href="https://github.com/asad110abbas/briha-ai-chatbot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=asad110abbas&repo=briha-ai-chatbot&bg_color=0B1024&title_color=00F0FF&text_color=E6ECFF&icon_color=FF2E97&border_color=8B5CF6&show_owner=false" width="100%"/></a>
 
-`FastAPI` `GPT-5` `Gemini` `React 19` `PostgreSQL` `Docker` · **78 tests**
-
-</td>
-<td width="50%" valign="top">
-
-### 🎙️ [Briha AI Voice Assistant](https://github.com/asad110abbas/briha-ai-voice-assistant)
-A **real-time bilingual voice agent** for customer support: RAG over FAQs, live tool calls for orders and
-billing, automatic human escalation, plus a React dashboard for support agents.
-
-`Gemini` `ChromaDB` `WebSockets` `FastAPI` `React` `TypeScript`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 [Retail Sales Power BI Dashboard](https://github.com/asad110abbas/retail-sales-powerbi-dashboard)
-Star-schema model, **30+ DAX measures** (YoY, YTD, rolling, Pareto, ranking), Power Query loaders and a custom theme.
-
-`Power BI` `DAX` `Power Query` `Python`
+**🤖 Briha AI Chatbot**: ask your business *"aaj kitna bika?"* and get a verified answer in seconds.
+- 4-agent pipeline: **Understand → Retrieve → Validate → Respond**
+- Grounding guard: every number must exist in the source data
+- GPT-5 / Gemini / offline mode · FastAPI · React 19 · PostgreSQL · **78 tests**
 
 </td>
 <td width="50%" valign="top">
 
-### 📦 [Inventory Demand Forecasting](https://github.com/asad110abbas/inventory-demand-forecasting)
-Backtests 3 models per SKU, picks the most accurate, and turns the forecast into **safety stock, reorder point and EOQ**.
+<a href="https://github.com/asad110abbas/briha-ai-voice-assistant"><img src="https://github-readme-stats.vercel.app/api/pin/?username=asad110abbas&repo=briha-ai-voice-assistant&bg_color=0B1024&title_color=00F0FF&text_color=E6ECFF&icon_color=FF2E97&border_color=8B5CF6&show_owner=false" width="100%"/></a>
 
-`statsmodels` `scikit-learn` `pandas`
+**🎙️ Briha AI Voice Assistant**: a support agent that *listens, thinks and speaks* in English, Urdu and Roman Urdu.
+- Live audio over WebSockets → Gemini with **function calling**
+- **RAG** knowledge base (ChromaDB) + smart human escalation
+- Full agent dashboard: tickets, call records, analytics
 
 </td>
 </tr>
 </table>
 
-### 🤖 AI systems
+## 📊 Data intelligence lab
 
-| Project | What it does | Stack |
-|---|---|---|
-| **[Briha AI Chatbot](https://github.com/asad110abbas/briha-ai-chatbot)** | Multi-agent analytics chatbot that answers business questions from live data in English and Roman Urdu, with a validation agent and numeric grounding so it never invents numbers | Python · FastAPI · GPT-5 / Gemini · React · PostgreSQL · Docker |
-| **[Briha AI Voice Assistant](https://github.com/asad110abbas/briha-ai-voice-assistant)** | Bilingual real-time voice agent for customer support, with RAG over FAQs, live tool calls, automatic human escalation and a full agent dashboard | Python · Gemini · ChromaDB · WebSockets · React · TypeScript |
-| **[RAG Knowledge Bot](https://github.com/asad110abbas/RAG-based-AI-Chat-Bot)** | Retrieval-augmented chatbot over custom documents | LangChain · Hugging Face · OpenAI · Gradio |
-| **[Fine-tuning DeBERTa](https://github.com/asad110abbas/Fine_Tuning-Deberta-Base)** | Fine-tuned a transformer for review classification | PyTorch · Transformers |
-| **[Hybrid AI Chatbot](https://github.com/asad110abbas/AI-ChatBot)** | AI + rule-based hybrid conversational system | Python · NLP |
-
-### 📊 Data analytics & machine learning
-
-| Project | What it does | Stack |
-|---|---|---|
-| **[Retail Sales Power BI Dashboard](https://github.com/asad110abbas/retail-sales-powerbi-dashboard)** | Star-schema model, 30+ DAX measures (time intelligence, Pareto, ranking) and Power Query loaders | Power BI · DAX · Power Query · Python |
-| **[Inventory Demand Forecasting](https://github.com/asad110abbas/inventory-demand-forecasting)** | Backtests 3 forecasting models per SKU and turns the best forecast into safety stock, reorder point and EOQ | Python · statsmodels · scikit-learn |
-| **[SQL Sales Analytics](https://github.com/asad110abbas/sql-sales-analytics)** | 10 business queries: cohort retention, RFM, basket analysis, Pareto, all CI-tested | SQL · PostgreSQL · DuckDB |
-| **[Customer Churn Prediction](https://github.com/asad110abbas/customer-churn-prediction)** | CV model selection, profit-optimal decision threshold, permutation importance and a model card | scikit-learn · pandas |
-| **[E-commerce ETL Pipeline](https://github.com/asad110abbas/ecommerce-etl-pipeline)** | Cleans messy CSV/JSON, quarantines bad rows, loads a star schema and enforces quality gates | Python · pandas · DuckDB |
-| **[Streamlit KPI Dashboard](https://github.com/asad110abbas/streamlit-kpi-dashboard)** | Interactive sales KPIs with period-over-period deltas and drill-down filters | Streamlit · Plotly |
-| **[Excel Report Automation](https://github.com/asad110abbas/excel-report-automation)** | One command turns raw sales into a formatted multi-sheet Excel report with native charts | Python · openpyxl |
-| **[Sales EDA in R](https://github.com/asad110abbas/r-sales-eda)** | Tidyverse exploratory analysis with publication-quality ggplot2 charts | R · dplyr · ggplot2 |
-
-### 🧱 Software engineering
-
-| Project | What it does | Stack |
-|---|---|---|
-| **[Task Manager API](https://github.com/asad110abbas/task-manager-api)** | Typed REST API with JWT auth, Zod validation, search and pagination, plus integration tests | TypeScript · Node.js · Express |
-| **[React Analytics UI](https://github.com/asad110abbas/react-analytics-ui)** | Responsive analytics dashboard with dark mode and unit-tested metric logic | React · TypeScript · Recharts |
-| **[Library Management API](https://github.com/asad110abbas/library-management-java)** | Layered Spring Boot API with transactional business rules and RFC 7807 errors | Java 21 · Spring Boot · JPA |
-| **[URL Shortener](https://github.com/asad110abbas/url-shortener-go)** | Zero-dependency Go service with race-tested concurrency and graceful shutdown | Go · net/http · Docker |
-| **[OCR](https://github.com/asad110abbas/OCR)** · **[Web Mining](https://github.com/asad110abbas/Web-Mining)** · **[Data Mining](https://github.com/asad110abbas/Data-Mining)** · **[Gender ID](https://github.com/asad110abbas/Gender_Identification)** | Computer vision, scraping and classic ML notebooks | Python · Jupyter |
-
----
-
-## 🛠️ Tech stack
-
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<p align="center">
+  <a href="https://github.com/asad110abbas/retail-sales-powerbi-dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=asad110abbas&repo=retail-sales-powerbi-dashboard&bg_color=0B1024&title_color=00F0FF&text_color=E6ECFF&icon_color=FF2E97&border_color=1E2A4A" width="49%"/></a>
+  <a href="https://github.com/asad110abbas/inventory-demand-forecasting"><img src="https://github-readme-stats.vercel.app/api/pin/?username=asad110abbas&repo=inventory-demand-forecasting&bg_color=0B1024&title_color=00F0FF&text_color=E6ECFF&icon_color=FF2E97&border_color=1E2A4A" width="49%"/></a>
+  <a href="https://github.com/asad110abbas/sql-sales-analytics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=asad110abbas&repo=sql-sales-analytics&bg_color=0B1024&title_color=00F0FF&text_color=E6ECFF&icon_color=FF2E97&border_color=1E2A4A" width="49%"/></a>
+  <a href="https://github.com/asad110abbas/customer-churn-prediction"><img src="https://github-readme-stats.vercel.app/api/pin/?username=asad110abbas&repo=customer-churn-prediction&bg_color=0B1024&title_color=00F0FF&text_color=E6ECFF&icon_color=FF2E97&border_color=1E2A4A" width="49%"/></a>
 </p>
 
-**AI / ML**
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+<details>
+<summary><b>🔍 Explore every project (click to expand)</b></summary>
+<br/>
+
+| | Project | What it does | Stack |
+|---|---|---|---|
+| 📊 | [Retail Sales Power BI](https://github.com/asad110abbas/retail-sales-powerbi-dashboard) | Star schema + 30+ DAX measures: YoY, YTD, Pareto, ranking | Power BI · DAX · M |
+| 📦 | [Demand Forecasting](https://github.com/asad110abbas/inventory-demand-forecasting) | 3 backtested models per SKU → safety stock, reorder point, EOQ | statsmodels · sklearn |
+| 🗄️ | [SQL Sales Analytics](https://github.com/asad110abbas/sql-sales-analytics) | Cohorts, RFM, basket analysis, Pareto. CI-tested queries | SQL · PostgreSQL · DuckDB |
+| 🔮 | [Churn Prediction](https://github.com/asad110abbas/customer-churn-prediction) | CV model selection + profit-optimal threshold + model card | scikit-learn |
+| 🔄 | [E-commerce ETL](https://github.com/asad110abbas/ecommerce-etl-pipeline) | Messy data → quarantine → star schema → quality gates | pandas · DuckDB |
+| 📈 | [Streamlit KPI Dashboard](https://github.com/asad110abbas/streamlit-kpi-dashboard) | Interactive KPIs with period-over-period deltas | Streamlit · Plotly |
+| 📑 | [Excel Automation](https://github.com/asad110abbas/excel-report-automation) | One command → formatted Excel report with native charts | openpyxl |
+| 📉 | [Sales EDA in R](https://github.com/asad110abbas/r-sales-eda) | Tidyverse analysis with ggplot2 visuals | R · dplyr · ggplot2 |
+| ✅ | [Task Manager API](https://github.com/asad110abbas/task-manager-api) | JWT auth, Zod validation, search and pagination, integration tests | TypeScript · Express |
+| 🖥️ | [React Analytics UI](https://github.com/asad110abbas/react-analytics-ui) | Responsive analytics dashboard with dark mode | React · TS · Recharts |
+| 📚 | [Library Management API](https://github.com/asad110abbas/library-management-java) | Transactional business rules, RFC 7807 errors | Java 21 · Spring Boot |
+| 🔗 | [URL Shortener](https://github.com/asad110abbas/url-shortener-go) | Zero-dependency, race-tested, graceful shutdown | Go |
+| 🧠 | [RAG Knowledge Bot](https://github.com/asad110abbas/RAG-based-AI-Chat-Bot) | Retrieval-augmented chatbot over custom documents | LangChain · OpenAI |
+| 🎯 | [DeBERTa Fine-tuning](https://github.com/asad110abbas/Fine_Tuning-Deberta-Base) | Transformer fine-tuned for review classification | PyTorch · HF |
+| 👁️ | [OCR](https://github.com/asad110abbas/OCR) · [Web Mining](https://github.com/asad110abbas/Web-Mining) · [Data Mining](https://github.com/asad110abbas/Data-Mining) | Vision, scraping and classic ML | Python · Jupyter |
+
+</details>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## 🛠️ Tech arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,java,go,r,c&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,fastapi,flask,nodejs,express,spring&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,postgres,mysql,sqlite,docker,nginx,linux,git,githubactions,vscode&theme=dark" />
 </p>
 
-**Data & BI**
-<p>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-GPT--5-412991?style=flat-square&logo=openai&logoColor=white&labelColor=0B1024"/>
+  <img src="https://img.shields.io/badge/Google-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white&labelColor=0B1024"/>
+  <img src="https://img.shields.io/badge/LangChain-RAG-1C3C3C?style=flat-square&logo=langchain&logoColor=white&labelColor=0B1024"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black&labelColor=0B1024"/>
+  <img src="https://img.shields.io/badge/ChromaDB-Vectors-FF6F00?style=flat-square&labelColor=0B1024"/>
+  <img src="https://img.shields.io/badge/Power_BI-DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black&labelColor=0B1024"/>
+  <img src="https://img.shields.io/badge/pandas-Analytics-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=0B1024"/>
+  <img src="https://img.shields.io/badge/DuckDB-OLAP-FFF000?style=flat-square&logo=duckdb&logoColor=black&labelColor=0B1024"/>
+  <img src="https://img.shields.io/badge/Streamlit-Apps-FF4B4B?style=flat-square&logo=streamlit&logoColor=white&labelColor=0B1024"/>
 </p>
 
-**Backend, frontend & DevOps**
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
-</p>
+## 🧑‍🚀 About the builder
 
----
+```python
+class SyedAsadAbbas:
+    brand    = "BRIHA — The New World in AGI"
+    role     = "AI & Data Engineer"
+    builds   = ["Multi-agent LLM systems", "Real-time voice AI", "RAG pipelines",
+                "Forecasting & ML models", "ETL pipelines", "Power BI dashboards"]
+    speaks   = {"code": ["Python", "SQL", "TypeScript", "Java", "Go", "R", "DAX"],
+                "human": ["English", "Urdu"]}
+    believes = "An AI answer is only as good as the proof behind it."
 
-## 📈 GitHub stats
+    def mission(self):
+        return "Make AI that businesses can actually trust, then ship it."
+```
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asad110abbas&show_icons=true&hide_border=true&theme=github_dark&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asad110abbas&layout=compact&hide_border=true&theme=github_dark&langs_count=8" height="165"/>
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asad110abbas&bg_color=0d1117&color=58a6ff&line=1f6feb&point=00b39f&area=true&hide_border=true" width="95%"/>
-</div>
+<img src="./assets/divider.svg" width="100%" alt="" />
 
----
+## 📡 Signal from the lab
 
 <div align="center">
 
-💬 **Open to AI engineering, data analytics and full-stack roles.** Let's connect on [LinkedIn](https://www.linkedin.com/in/syed-asad-abbas-28151b302).
+<img src="https://github-readme-stats.vercel.app/api?username=asad110abbas&show_icons=true&count_private=true&include_all_commits=true&bg_color=0B1024&title_color=00F0FF&text_color=E6ECFF&icon_color=FF2E97&border_color=8B5CF6&ring_color=8B5CF6" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asad110abbas&layout=compact&langs_count=8&bg_color=0B1024&title_color=00F0FF&text_color=E6ECFF&border_color=8B5CF6" height="170"/>
+
+<img src="https://streak-stats.demolab.com?user=asad110abbas&background=0B1024&border=8B5CF6&ring=FF2E97&fire=FF2E97&currStreakNum=00F0FF&sideNums=E6ECFF&currStreakLabel=00F0FF&sideLabels=CDB8FF&dates=8892B0&stroke=1E2A4A" height="170"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=asad110abbas&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" width="95%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asad110abbas&bg_color=0B1024&color=E6ECFF&line=00F0FF&point=FF2E97&area=true&area_color=8B5CF6&title_color=00F0FF&hide_border=true" width="98%"/>
+
+<img src="https://raw.githubusercontent.com/asad110abbas/asad110abbas/output/github-snake-dark.svg" width="98%" alt="contribution snake" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B39F,50:1F6FEB,100:0D1520&height=110&section=footer" width="100%" alt="footer" />
+<div align="center">
+
+### 🤝 Let's build the future together
+
+**Open to AI Engineering · Data Analytics · Full-Stack AI roles**
+
+<a href="https://www.linkedin.com/in/syed-asad-abbas-28151b302"><img src="https://img.shields.io/badge/Let's_talk_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:8B5CF6,100:FF2E97&height=130&section=footer&text=BRIHA%20%C2%B7%20The%20New%20World%20in%20AGI&fontSize=22&fontColor=ffffff&fontAlignY=72" width="100%" alt="footer" />

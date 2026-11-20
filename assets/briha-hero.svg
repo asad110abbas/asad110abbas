@@ -1,0 +1,131 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" width="1200" height="440" role="img" aria-label="BRIHA - The New World in AGI - by Syed Asad Abbas">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#05070F"/>
+      <stop offset="0.55" stop-color="#0B1024"/>
+      <stop offset="1" stop-color="#12062A"/>
+    </linearGradient>
+    <linearGradient id="word" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00F0FF"/>
+      <stop offset="0.35" stop-color="#8B5CF6"/>
+      <stop offset="0.7" stop-color="#FF2E97"/>
+      <stop offset="1" stop-color="#00F0FF"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="-1 0" to="1 0" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="orbCore" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="0.25" stop-color="#7CF7FF"/>
+      <stop offset="0.6" stop-color="#8B5CF6" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="halo" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#8B5CF6" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softglow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#1E2A4A" stroke-width="0.6"/>
+    </pattern>
+    <style>
+      .node { fill: #7CF7FF; animation: pulse 3s ease-in-out infinite; }
+      .node.v { fill: #B794FF; }
+      .node.m { fill: #FF6BB5; }
+      .link { stroke: url(#word); stroke-width: 1.2; fill: none; opacity: 0.55;
+              stroke-dasharray: 6 10; animation: flow 4s linear infinite; }
+      .ring { fill: none; stroke-width: 1.6; transform-origin: 960px 215px; }
+      .r1 { stroke: #00F0FF; stroke-dasharray: 4 14; animation: spin 14s linear infinite; }
+      .r2 { stroke: #8B5CF6; stroke-dasharray: 60 30; animation: spin 9s linear infinite reverse; }
+      .r3 { stroke: #FF2E97; stroke-dasharray: 2 8; animation: spin 20s linear infinite; }
+      .tag { font: 600 26px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; letter-spacing: 9px; fill: #E6ECFF; }
+      .name { font: 600 22px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #FFFFFF; }
+      .role { font: 500 15px 'Consolas', 'Fira Code', monospace; fill: #7CF7FF; letter-spacing: 2px; }
+      .chip { font: 600 13px 'Consolas', 'Fira Code', monospace; fill: #CDB8FF; }
+      .fade1 { animation: fade 1.2s ease-out both; }
+      .fade2 { animation: fade 1.2s 0.5s ease-out both; }
+      .fade3 { animation: fade 1.2s 1s ease-out both; }
+      .scan { animation: scan 5s linear infinite; }
+      @keyframes pulse { 0%, 100% { opacity: 0.35; } 50% { opacity: 1; } }
+      @keyframes flow { to { stroke-dashoffset: -64; } }
+      @keyframes spin { to { transform: rotate(360deg); } }
+      @keyframes fade { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: none; } }
+      @keyframes scan { 0% { transform: translateY(-40px); } 100% { transform: translateY(480px); } }
+      @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+    </style>
+  </defs>
+
+  <!-- background -->
+  <rect width="1200" height="440" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="440" rx="22" fill="url(#grid)" opacity="0.55"/>
+  <rect class="scan" x="0" y="0" width="1200" height="3" fill="#00F0FF" opacity="0.12"/>
+
+  <!-- neural network (left/background) -->
+  <g opacity="0.9">
+    <path class="link" d="M60 70 L180 130 L300 60 L420 120"/>
+    <path class="link" d="M60 370 L170 300 L290 380 L410 320" style="animation-delay:-1s"/>
+    <path class="link" d="M180 130 L170 300" style="animation-delay:-2s"/>
+    <path class="link" d="M300 60 L290 380" style="animation-delay:-0.5s"/>
+    <path class="link" d="M420 120 L560 40 L700 90" style="animation-delay:-1.5s"/>
+    <path class="link" d="M410 320 L560 400 L700 350" style="animation-delay:-2.5s"/>
+    <circle class="node" cx="60" cy="70" r="4"/>
+    <circle class="node v" cx="180" cy="130" r="5" style="animation-delay:-0.4s"/>
+    <circle class="node m" cx="300" cy="60" r="4" style="animation-delay:-0.8s"/>
+    <circle class="node" cx="420" cy="120" r="5" style="animation-delay:-1.2s"/>
+    <circle class="node v" cx="60" cy="370" r="4" style="animation-delay:-1.6s"/>
+    <circle class="node m" cx="170" cy="300" r="5" style="animation-delay:-2s"/>
+    <circle class="node" cx="290" cy="380" r="4" style="animation-delay:-2.4s"/>
+    <circle class="node v" cx="410" cy="320" r="5" style="animation-delay:-0.2s"/>
+    <circle class="node m" cx="560" cy="40" r="4" style="animation-delay:-1s"/>
+    <circle class="node" cx="700" cy="90" r="4" style="animation-delay:-1.8s"/>
+    <circle class="node v" cx="560" cy="400" r="4" style="animation-delay:-2.2s"/>
+    <circle class="node m" cx="700" cy="350" r="4" style="animation-delay:-0.6s"/>
+  </g>
+
+  <!-- AGI orb (right) -->
+  <circle cx="960" cy="215" r="170" fill="url(#halo)">
+    <animate attributeName="r" values="150;178;150" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle class="ring r1" cx="960" cy="215" r="138"/>
+  <circle class="ring r2" cx="960" cy="215" r="110"/>
+  <circle class="ring r3" cx="960" cy="215" r="84"/>
+  <g style="transform-origin:960px 215px; animation: spin 7s linear infinite">
+    <circle cx="1098" cy="215" r="6" fill="#00F0FF" filter="url(#softglow)"/>
+  </g>
+  <g style="transform-origin:960px 215px; animation: spin 11s linear infinite reverse">
+    <circle cx="960" cy="105" r="5" fill="#FF2E97" filter="url(#softglow)"/>
+  </g>
+  <circle cx="960" cy="215" r="52" fill="url(#orbCore)" filter="url(#glow)">
+    <animate attributeName="r" values="46;56;46" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <text x="960" y="221" text-anchor="middle" class="chip" style="fill:#0B1024;font-size:15px;font-weight:800">AGI</text>
+
+  <!-- wordmark -->
+  <g class="fade1">
+    <text x="70" y="215" font-family="'Segoe UI Black','Arial Black','Segoe UI',Arial,sans-serif" font-weight="900"
+          font-size="150" letter-spacing="18" fill="url(#word)" filter="url(#glow)">BRIHA</text>
+  </g>
+  <g class="fade2">
+    <text x="76" y="262" class="tag">THE NEW WORLD IN AGI</text>
+    <rect x="76" y="280" width="420" height="2" fill="url(#word)"/>
+  </g>
+  <g class="fade3">
+    <text x="76" y="318" class="name">by Syed Asad Abbas</text>
+    <text x="76" y="346" class="role">AI &amp; DATA ENGINEER · AGENTIC AI · VOICE AI · ANALYTICS<tspan style="animation: blink 1s step-end infinite">_</tspan></text>
+    <g transform="translate(76 368)">
+      <rect width="118" height="28" rx="14" fill="#1A1440" stroke="#8B5CF6" stroke-opacity="0.6"/>
+      <text x="59" y="19" text-anchor="middle" class="chip">LLM Agents</text>
+      <rect x="128" width="92" height="28" rx="14" fill="#0A2233" stroke="#00F0FF" stroke-opacity="0.6"/>
+      <text x="174" y="19" text-anchor="middle" class="chip" style="fill:#9FF8FF">RAG</text>
+      <rect x="230" width="108" height="28" rx="14" fill="#2A0F25" stroke="#FF2E97" stroke-opacity="0.6"/>
+      <text x="284" y="19" text-anchor="middle" class="chip" style="fill:#FFB3D9">Voice AI</text>
+      <rect x="348" width="112" height="28" rx="14" fill="#1A1440" stroke="#8B5CF6" stroke-opacity="0.6"/>
+      <text x="404" y="19" text-anchor="middle" class="chip">Power BI</text>
+    </g>
+  </g>
+</svg>
