@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1520,50:1F6FEB,100:00B39F&height=190&section=header&text=Syed%20Asad%20Abbas&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=AI%20%26%20Data%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header" />
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=1F6FEB&center=true&vCenter=true&width=760&height=55&lines=Hi+%F0%9F%91%8B+I'm+Syed+Asad+Abbas;AI+%26+Data+Engineer;LLM+Agents+%7C+RAG+%7C+Voice+AI;Data+Analytics+%7C+Power+BI+%7C+SQL" alt="Typing SVG" />
@@ -21,6 +23,47 @@
 ---
 
 ## 🌟 Featured projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [Briha AI Chatbot](https://github.com/asad110abbas/briha-ai-chatbot)
+A **4-agent LLM pipeline** that answers business questions from live company data in English and Roman Urdu.
+A validation agent and a numeric grounding check make sure every number comes from the source.
+
+`FastAPI` `GPT-5` `Gemini` `React 19` `PostgreSQL` `Docker` · **78 tests**
+
+</td>
+<td width="50%" valign="top">
+
+### 🎙️ [Briha AI Voice Assistant](https://github.com/asad110abbas/briha-ai-voice-assistant)
+A **real-time bilingual voice agent** for customer support: RAG over FAQs, live tool calls for orders and
+billing, automatic human escalation, plus a React dashboard for support agents.
+
+`Gemini` `ChromaDB` `WebSockets` `FastAPI` `React` `TypeScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 [Retail Sales Power BI Dashboard](https://github.com/asad110abbas/retail-sales-powerbi-dashboard)
+Star-schema model, **30+ DAX measures** (YoY, YTD, rolling, Pareto, ranking), Power Query loaders and a custom theme.
+
+`Power BI` `DAX` `Power Query` `Python`
+
+</td>
+<td width="50%" valign="top">
+
+### 📦 [Inventory Demand Forecasting](https://github.com/asad110abbas/inventory-demand-forecasting)
+Backtests 3 models per SKU, picks the most accurate, and turns the forecast into **safety stock, reorder point and EOQ**.
+
+`statsmodels` `scikit-learn` `pandas`
+
+</td>
+</tr>
+</table>
 
 ### 🤖 AI systems
 
@@ -114,6 +157,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=asad110abbas&show_icons=true&hide_border=true&theme=github_dark&count_private=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asad110abbas&layout=compact&hide_border=true&theme=github_dark&langs_count=8" height="165"/>
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asad110abbas&bg_color=0d1117&color=58a6ff&line=1f6feb&point=00b39f&area=true&hide_border=true" width="95%"/>
 </div>
 
 ---
@@ -123,3 +168,5 @@
 💬 **Open to AI engineering, data analytics and full-stack roles.** Let's connect on [LinkedIn](https://www.linkedin.com/in/syed-asad-abbas-28151b302).
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B39F,50:1F6FEB,100:0D1520&height=110&section=footer" width="100%" alt="footer" />
