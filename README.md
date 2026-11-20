@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/briha-hero.svg" width="100%" alt="BRIHA — The New World in AGI — by Syed Asad Abbas" />
+<img src="./assets/briha-hero.svg" width="100%" alt="BRIHA — The Genesis of AGI — by Syed Asad Abbas" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2600&pause=700&color=00F0FF&center=true&vCenter=true&width=860&height=48&lines=%E2%9A%A1+BRIHA+%E2%80%94+my+AI+World%2C+built+end-to-end;%F0%9F%A4%96+Multi-agent+LLMs+that+never+invent+numbers;%F0%9F%8E%99%EF%B8%8F+Real-time+Voice+AI+in+English+%2B+Urdu;%E2%98%81%EF%B8%8F+Shipped+with+Docker+%2B+Vercel;%F0%9F%93%8A+Data+%E2%80%A2+Forecasting+%E2%80%A2+Power+BI+%E2%80%A2+SQL" alt="Typing SVG" /></a>
 
@@ -174,7 +174,7 @@
 
 ```python
 class SyedAsadAbbas:
-    brand    = "BRIHA — The New World in AGI"
+    brand    = "BRIHA — The Genesis of AGI"
     role     = "AI & Data Engineer"
     world    = {
         "ai":          ["Multi-agent LLMs", "Real-time Voice AI", "RAG", "Fine-tuning"],
@@ -220,4 +220,4 @@ class SyedAsadAbbas:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:8B5CF6,100:FF2E97&height=130&section=footer&text=BRIHA%20%C2%B7%20The%20New%20World%20in%20AGI&fontSize=22&fontColor=ffffff&fontAlignY=72" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:8B5CF6,100:FF2E97&height=130&section=footer&text=BRIHA%20%C2%B7%20The%20Genesis%20of%20AGI&fontSize=22&fontColor=ffffff&fontAlignY=72" width="100%" alt="footer" />
