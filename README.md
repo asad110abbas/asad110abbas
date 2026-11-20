@@ -2,7 +2,7 @@
 
 <img src="./assets/briha-hero.svg" width="100%" alt="BRIHA — The Genesis of AGI — by Syed Asad Abbas" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2600&pause=700&color=00F0FF&center=true&vCenter=true&width=860&height=48&lines=BRIHA+%E2%80%94+The+Genesis+of+AGI;%F0%9F%A4%96+Multi-agent+LLMs+that+never+invent+numbers;%B8%8F+Real-time+Voice+AI+in+English+%2B+Urdu;Shipped+with+Docker+%2B+Vercel;%F0%9F%93%8A+Data+%E2%80%A2+Forecasting+%E2%80%A2+Power+BI+%E2%80%A2+SQL" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2600&pause=700&color=00F0FF&center=true&vCenter=true&width=860&height=48&lines=BRIHA+%E2%80%94+The+Genesis+of+AGI;%F0%9F%A4%96+Multi-agent+LLMs+that+never+invent+numbers;Real-time+Voice+AI+in+English+%2B+Urdu;Shipped+with+Docker+%2B+Vercel;%F0%9F%93%8A+Data+%E2%80%A2+Forecasting+%E2%80%A2+Power+BI+%E2%80%A2+SQL" alt="Typing SVG" /></a>
 
 <p>
   <a href="https://www.linkedin.com/in/syed-asad-abbas-28151b302"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1024" /></a>
