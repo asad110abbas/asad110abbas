@@ -31,7 +31,7 @@
   </g>
   <g>
     <rect class="c glow" x="910" y="10" width="280" height="130" rx="18" style="animation-delay:-2.25s"/>
-    <text class="n pop" x="1050" y="80" text-anchor="middle" style="animation-delay:.6s;font-size:36px">☁ CLOUD</text>
+    <text class="n pop" x="1050" y="80" text-anchor="middle" style="animation-delay:.6s;font-size:36px">CLOUD</text>
     <text class="l" x="1050" y="112" text-anchor="middle">VERCEL · DOCKER</text>
   </g>
 </svg>

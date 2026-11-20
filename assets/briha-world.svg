@@ -46,7 +46,7 @@
   <circle class="orbit" cx="600" cy="300" r="150"/>
   <circle class="orbit" cx="600" cy="300" r="230" style="animation-direction:reverse;animation-duration:60s"/>
 
-  <!-- beams core -> modules -->
+  <!-- beams core ->modules -->
   <path class="beam" d="M600 300 L300 150" stroke="#00F0FF"/>
   <path class="beam" d="M600 300 L900 150" stroke="#FF2E97" style="animation-delay:-.4s"/>
   <path class="beam" d="M600 300 L600 110" stroke="#B794FF" style="animation-delay:-.8s"/>
@@ -64,7 +64,7 @@
   <!-- module: Research (top) -->
   <g class="float">
     <rect class="card" x="485" y="62" width="230" height="74" rx="14" stroke="#B794FF"/>
-    <text x="600" y="88" text-anchor="middle" class="t">🧠 Briha Research</text>
+    <text x="600" y="88" text-anchor="middle" class="t">Briha Research</text>
     <text x="600" y="108" text-anchor="middle" class="s">RAG · SEO Agents · OCR · NLP</text>
     <text x="600" y="125" text-anchor="middle" class="s">Web &amp; Data Mining</text>
   </g>
@@ -72,7 +72,7 @@
   <!-- module: Chatbot (top-left) -->
   <g class="float" style="animation-delay:-1s">
     <rect class="card" x="140" y="108" width="270" height="84" rx="14" stroke="#00F0FF"/>
-    <text x="275" y="136" text-anchor="middle" class="t">🤖 Briha AI Chatbot</text>
+    <text x="275" y="136" text-anchor="middle" class="t">Briha AI Chatbot</text>
     <text x="275" y="156" text-anchor="middle" class="s">4-agent LLM · grounding guard</text>
     <text x="275" y="174" text-anchor="middle" class="s" style="fill:#7CF7FF">GPT-5 · Gemini · FastAPI · React</text>
   </g>
@@ -80,7 +80,7 @@
   <!-- module: Voice (top-right) -->
   <g class="float" style="animation-delay:-2s">
     <rect class="card" x="790" y="108" width="270" height="84" rx="14" stroke="#FF2E97"/>
-    <text x="925" y="136" text-anchor="middle" class="t">🎙️ Briha Voice Assistant</text>
+    <text x="925" y="136" text-anchor="middle" class="t">Briha Voice Assistant</text>
     <text x="925" y="156" text-anchor="middle" class="s">Real-time bilingual voice AI</text>
     <text x="925" y="174" text-anchor="middle" class="s" style="fill:#FF9ACB">Gemini · RAG · WebSockets</text>
   </g>
@@ -88,7 +88,7 @@
   <!-- module: Data Lab (bottom-left) -->
   <g class="float" style="animation-delay:-3s">
     <rect class="card" x="110" y="396" width="300" height="100" rx="14" stroke="#FF2E97"/>
-    <text x="260" y="424" text-anchor="middle" class="t">📊 Briha Data Lab</text>
+    <text x="260" y="424" text-anchor="middle" class="t">Briha Data Lab</text>
     <text x="260" y="444" text-anchor="middle" class="s">Power BI · DAX · SQL · R</text>
     <text x="260" y="462" text-anchor="middle" class="s">Forecasting · Churn ML · ETL</text>
     <text x="260" y="480" text-anchor="middle" class="s">Streamlit · Excel automation</text>
@@ -97,7 +97,7 @@
   <!-- module: Cloud (bottom-right) -->
   <g class="float" style="animation-delay:-4s">
     <rect class="card" x="790" y="396" width="300" height="100" rx="14" stroke="#00F0FF"/>
-    <text x="940" y="424" text-anchor="middle" class="t">☁️ Briha Cloud</text>
+    <text x="940" y="424" text-anchor="middle" class="t">Briha Cloud</text>
     <text x="940" y="444" text-anchor="middle" class="s">Docker · Docker Compose</text>
     <text x="940" y="462" text-anchor="middle" class="s">Vercel · Nginx · Linux VM</text>
     <text x="940" y="480" text-anchor="middle" class="s" style="fill:#7CF7FF">GitHub Actions CI/CD</text>
@@ -106,7 +106,7 @@
   <!-- module: Engineering (bottom) -->
   <g class="float" style="animation-delay:-5s">
     <rect class="card" x="470" y="478" width="260" height="84" rx="14" stroke="#B794FF"/>
-    <text x="600" y="506" text-anchor="middle" class="t">🧱 Briha Engineering</text>
+    <text x="600" y="506" text-anchor="middle" class="t">Briha Engineering</text>
     <text x="600" y="526" text-anchor="middle" class="s">TypeScript · React · Node</text>
     <text x="600" y="544" text-anchor="middle" class="s">Java Spring Boot · Go</text>
   </g>

@@ -30,31 +30,31 @@
 
   <g>
     <rect class="box" x="60" y="70" width="150" height="116" rx="14" stroke="#00F0FF"/>
-    <text x="135" y="106" text-anchor="middle" class="ic">💻</text>
+    <text x="135" y="106" text-anchor="middle" class="ic" style="font:900 24px Consolas,monospace;fill:#7CF7FF">01</text>
     <text x="135" y="138" text-anchor="middle" class="t">Code</text>
     <text x="135" y="158" text-anchor="middle" class="s">Python · TS · Git</text>
   </g>
   <g>
     <rect class="box" x="290" y="70" width="150" height="116" rx="14" stroke="#8B5CF6"/>
-    <text x="365" y="106" text-anchor="middle" class="ic">🧪</text>
+    <text x="365" y="106" text-anchor="middle" class="ic" style="font:900 24px Consolas,monospace;fill:#7CF7FF">02</text>
     <text x="365" y="138" text-anchor="middle" class="t">Test &amp; CI</text>
     <text x="365" y="158" text-anchor="middle" class="s">pytest · GitHub Actions</text>
   </g>
   <g>
     <rect class="box" x="520" y="70" width="160" height="116" rx="14" stroke="#00F0FF"/>
-    <text x="600" y="106" text-anchor="middle" class="ic">🐳</text>
+    <text x="600" y="106" text-anchor="middle" class="ic" style="font:900 24px Consolas,monospace;fill:#7CF7FF">03</text>
     <text x="600" y="138" text-anchor="middle" class="t">Containerize</text>
     <text x="600" y="158" text-anchor="middle" class="s">Docker · Compose</text>
   </g>
   <g>
     <rect class="box" x="760" y="70" width="160" height="116" rx="14" stroke="#FF2E97"/>
-    <text x="840" y="106" text-anchor="middle" class="ic">☁️</text>
+    <text x="840" y="106" text-anchor="middle" class="ic" style="font:900 24px Consolas,monospace;fill:#7CF7FF">04</text>
     <text x="840" y="138" text-anchor="middle" class="t">Deploy</text>
     <text x="840" y="158" text-anchor="middle" class="s">Vercel · Docker host</text>
   </g>
   <g>
     <rect class="box" x="1000" y="70" width="140" height="116" rx="14" stroke="#00F0FF"/>
-    <text x="1070" y="106" text-anchor="middle" class="ic">🚀</text>
+    <text x="1070" y="106" text-anchor="middle" class="ic" style="font:900 24px Consolas,monospace;fill:#7CF7FF">05</text>
     <text x="1070" y="138" text-anchor="middle" class="t">Live</text>
     <text x="1070" y="158" text-anchor="middle" class="s ok" style="fill:#3DFFA2">● online</text>
   </g>

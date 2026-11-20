@@ -2,7 +2,7 @@
 
 <img src="./assets/briha-hero.svg" width="100%" alt="BRIHA — The Genesis of AGI — by Syed Asad Abbas" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2600&pause=700&color=00F0FF&center=true&vCenter=true&width=860&height=48&lines=%E2%9A%A1+BRIHA+%E2%80%94+The+Genesis+of+AGI;%F0%9F%A4%96+Multi-agent+LLMs+that+never+invent+numbers;%F0%9F%8E%99%EF%B8%8F+Real-time+Voice+AI+in+English+%2B+Urdu;%E2%98%81%EF%B8%8F+Shipped+with+Docker+%2B+Vercel;%F0%9F%93%8A+Data+%E2%80%A2+Forecasting+%E2%80%A2+Power+BI+%E2%80%A2+SQL" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2600&pause=700&color=00F0FF&center=true&vCenter=true&width=860&height=48&lines=BRIHA+%E2%80%94+The+Genesis+of+AGI;%F0%9F%A4%96+Multi-agent+LLMs+that+never+invent+numbers;%B8%8F+Real-time+Voice+AI+in+English+%2B+Urdu;Shipped+with+Docker+%2B+Vercel;%F0%9F%93%8A+Data+%E2%80%A2+Forecasting+%E2%80%A2+Power+BI+%E2%80%A2+SQL" alt="Typing SVG" /></a>
 
 <p>
   <a href="https://www.linkedin.com/in/syed-asad-abbas-28151b302"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1024" /></a>
@@ -134,7 +134,7 @@
 </details>
 
 <details>
-<summary><b> Briha Engineering: APIs, UIs and services (click to expand)</b></summary>
+<summary><b>Briha Engineering: APIs, UIs and services (click to expand)</b></summary>
 <br/>
 
 | Module | What it does | Stack |
@@ -168,7 +168,7 @@
 |  [**Gender Identification**](https://github.com/asad110abbas/Gender_Identification) | Name-based gender enrichment via API, in batches | pandas · REST API |
 
 <details>
-<summary><b> Briha Labs: in development (click to expand)</b></summary>
+<summary><b>Briha Labs: in development (click to expand)</b></summary>
 <br/>
 
 | Module | What it does | Status |
@@ -243,7 +243,7 @@ class SyedAsadAbbas:
 
 <div align="center">
 
-###  Let's build the future together
+### Let's build the future together
 
 **All 26+ projects are part of BRIHA · Open to AI Engineering, Data Analytics, Full-Stack AI and Cloud roles**
 
