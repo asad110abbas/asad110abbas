@@ -24,12 +24,12 @@
 
 <table>
 <tr>
-<td align="center" width="16%"><b>🤖<br/>Chatbot</b><br/><sub>Agentic LLM</sub></td>
-<td align="center" width="16%"><b>🎙️<br/>Voice</b><br/><sub>Real-time AI</sub></td>
-<td align="center" width="16%"><b>🧠<br/>Research</b><br/><sub>RAG · NLP · CV</sub></td>
-<td align="center" width="16%"><b>📊<br/>Data Lab</b><br/><sub>BI · ML · SQL</sub></td>
-<td align="center" width="16%"><b>🧱<br/>Engineering</b><br/><sub>APIs · UIs</sub></td>
-<td align="center" width="16%"><b>☁️<br/>Cloud</b><br/><sub>Docker · Vercel</sub></td>
+<td align="center" width="16%"><b><br/>Chatbot</b><br/><sub>Agentic LLM</sub></td>
+<td align="center" width="16%"><b><br/>Voice</b><br/><sub>Real-time AI</sub></td>
+<td align="center" width="16%"><b><br/>Research</b><br/><sub>RAG · NLP · CV</sub></td>
+<td align="center" width="16%"><b><br/>Data Lab</b><br/><sub>BI · ML · SQL</sub></td>
+<td align="center" width="16%"><b><br/>Engineering</b><br/><sub>APIs · UIs</sub></td>
+<td align="center" width="16%"><b><br/>Cloud</b><br/><sub>Docker · Vercel</sub></td>
 </tr>
 </table>
 
@@ -122,33 +122,33 @@
 
 | Module | What it does | Stack |
 |---|---|---|
-| 📊 [**Retail Sales Power BI**](https://github.com/asad110abbas/retail-sales-powerbi-dashboard) | Star schema + 30+ DAX measures: YoY, YTD, Pareto, ranking | Power BI · DAX · M |
-| 📦 [**Demand Forecasting**](https://github.com/asad110abbas/inventory-demand-forecasting) | 3 backtested models per SKU → safety stock, reorder point, EOQ | statsmodels · sklearn |
-| 🗄️ [**SQL Sales Analytics**](https://github.com/asad110abbas/sql-sales-analytics) | Cohorts, RFM, basket analysis, Pareto. CI-tested queries | SQL · PostgreSQL · DuckDB |
-| 🔮 [**Churn Prediction**](https://github.com/asad110abbas/customer-churn-prediction) | CV model selection + profit-optimal threshold + model card | scikit-learn |
-| 🔄 [**E-commerce ETL**](https://github.com/asad110abbas/ecommerce-etl-pipeline) | Messy data → quarantine → star schema → quality gates | pandas · DuckDB |
-| 📈 [**Streamlit KPI Dashboard**](https://github.com/asad110abbas/streamlit-kpi-dashboard) | Interactive KPIs with period-over-period deltas | Streamlit · Plotly |
-| 📑 [**Excel Automation**](https://github.com/asad110abbas/excel-report-automation) | One command → formatted Excel report with native charts | openpyxl |
-| 📉 [**Sales EDA in R**](https://github.com/asad110abbas/r-sales-eda) | Tidyverse analysis with ggplot2 visuals | R · dplyr · ggplot2 |
+|  [**Retail Sales Power BI**](https://github.com/asad110abbas/retail-sales-powerbi-dashboard) | Star schema + 30+ DAX measures: YoY, YTD, Pareto, ranking | Power BI · DAX · M |
+|  [**Demand Forecasting**](https://github.com/asad110abbas/inventory-demand-forecasting) | 3 backtested models per SKU → safety stock, reorder point, EOQ | statsmodels · sklearn |
+|  [**SQL Sales Analytics**](https://github.com/asad110abbas/sql-sales-analytics) | Cohorts, RFM, basket analysis, Pareto. CI-tested queries | SQL · PostgreSQL · DuckDB |
+|  [**Churn Prediction**](https://github.com/asad110abbas/customer-churn-prediction) | CV model selection + profit-optimal threshold + model card | scikit-learn |
+|  [**E-commerce ETL**](https://github.com/asad110abbas/ecommerce-etl-pipeline) | Messy data → quarantine → star schema → quality gates | pandas · DuckDB |
+|  [**Streamlit KPI Dashboard**](https://github.com/asad110abbas/streamlit-kpi-dashboard) | Interactive KPIs with period-over-period deltas | Streamlit · Plotly |
+|  [**Excel Automation**](https://github.com/asad110abbas/excel-report-automation) | One command → formatted Excel report with native charts | openpyxl |
+|  [**Sales EDA in R**](https://github.com/asad110abbas/r-sales-eda) | Tidyverse analysis with ggplot2 visuals | R · dplyr · ggplot2 |
 
 </details>
 
 <details>
-<summary><b>🧱 Briha Engineering: APIs, UIs and services (click to expand)</b></summary>
+<summary><b> Briha Engineering: APIs, UIs and services (click to expand)</b></summary>
 <br/>
 
 | Module | What it does | Stack |
 |---|---|---|
-| ✅ [**Task Manager API**](https://github.com/asad110abbas/task-manager-api) | JWT auth, Zod validation, search and pagination, integration tests | TypeScript · Express · Docker |
-| 🖥️ [**React Analytics UI**](https://github.com/asad110abbas/react-analytics-ui) | Responsive analytics dashboard with dark mode | React · TS · Recharts |
-| 📚 [**Library Management API**](https://github.com/asad110abbas/library-management-java) | Transactional business rules, RFC 7807 errors | Java 21 · Spring Boot |
-| 🔗 [**URL Shortener**](https://github.com/asad110abbas/url-shortener-go) | Zero-dependency, race-tested, graceful shutdown | Go · Docker |
+|  [**Task Manager API**](https://github.com/asad110abbas/task-manager-api) | JWT auth, Zod validation, search and pagination, integration tests | TypeScript · Express · Docker |
+|  [**React Analytics UI**](https://github.com/asad110abbas/react-analytics-ui) | Responsive analytics dashboard with dark mode | React · TS · Recharts |
+|  [**Library Management API**](https://github.com/asad110abbas/library-management-java) | Transactional business rules, RFC 7807 errors | Java 21 · Spring Boot |
+|  [**URL Shortener**](https://github.com/asad110abbas/url-shortener-go) | Zero-dependency, race-tested, graceful shutdown | Go · Docker |
 
 </details>
 
-### 🧠 Briha Research: where BRIHA started
+###  Briha Research: 
 
-*My first AI experiments: RAG, transformer fine-tuning, local LLMs, OCR and data mining. These are the foundations the flagship systems grew from.*
+*AI experiments: RAG, transformer fine-tuning, local LLMs, OCR and data mining. These are the foundations the flagship systems grew from.*
 
 <p align="center">
   <a href="https://github.com/asad110abbas/RAG-based-AI-Chat-Bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=asad110abbas&repo=RAG-based-AI-Chat-Bot&bg_color=0B1024&title_color=00F0FF&text_color=E6ECFF&icon_color=FF2E97&border_color=1E2A4A" width="49%"/></a>
@@ -159,23 +159,23 @@
 
 | Module | What it does | Stack |
 |---|---|---|
-| 🧠 [**KnowledgeBot (RAG)**](https://github.com/asad110abbas/RAG-based-AI-Chat-Bot) | Chat with your own documents: retrieval + GPT-5-mini in a Gradio UI | LangChain · Chroma · OpenAI |
-| 🎯 [**DeBERTa Fine-tuning**](https://github.com/asad110abbas/Fine_Tuning-Deberta-Base) | Review classification: EDA, labelling, transformer fine-tuning | Hugging Face · PyTorch · NLTK |
-| 💬 [**Hybrid AI Chatbot**](https://github.com/asad110abbas/AI-ChatBot) | Semantic retrieval + local LLM, no paid APIs | llama.cpp · Sentence-Transformers |
-| 👁️ [**Multi-Engine OCR**](https://github.com/asad110abbas/OCR) | EasyOCR vs Tesseract vs PaddleOCR, plus formula → LaTeX | OpenCV · PaddleOCR · pix2tex |
-| 🗺️ [**Google Maps Data Mining**](https://github.com/asad110abbas/Data-Mining) | Lead-generation scraper with auto-scroll | Selenium · BeautifulSoup |
-| 🕸️ [**Web Mining**](https://github.com/asad110abbas/Web-Mining) | Paginated scraping pipeline to clean CSV | Requests · BeautifulSoup |
-| 🧍 [**Gender Identification**](https://github.com/asad110abbas/Gender_Identification) | Name-based gender enrichment via API, in batches | pandas · REST API |
+|  [**KnowledgeBot (RAG)**](https://github.com/asad110abbas/RAG-based-AI-Chat-Bot) | Chat with your own documents: retrieval + GPT-5-mini in a Gradio UI | LangChain · Chroma · OpenAI |
+|  [**DeBERTa Fine-tuning**](https://github.com/asad110abbas/Fine_Tuning-Deberta-Base) | Review classification: EDA, labelling, transformer fine-tuning | Hugging Face · PyTorch · NLTK |
+|  [**Hybrid AI Chatbot**](https://github.com/asad110abbas/AI-ChatBot) | Semantic retrieval + local LLM, no paid APIs | llama.cpp · Sentence-Transformers |
+|  [**Multi-Engine OCR**](https://github.com/asad110abbas/OCR) | EasyOCR vs Tesseract vs PaddleOCR, plus formula → LaTeX | OpenCV · PaddleOCR · pix2tex |
+|  [**Google Maps Data Mining**](https://github.com/asad110abbas/Data-Mining) | Lead-generation scraper with auto-scroll | Selenium · BeautifulSoup |
+|  [**Web Mining**](https://github.com/asad110abbas/Web-Mining) | Paginated scraping pipeline to clean CSV | Requests · BeautifulSoup |
+|  [**Gender Identification**](https://github.com/asad110abbas/Gender_Identification) | Name-based gender enrichment via API, in batches | pandas · REST API |
 
 <details>
-<summary><b>🧪 Briha Labs: in development (click to expand)</b></summary>
+<summary><b> Briha Labs: in development (click to expand)</b></summary>
 <br/>
 
 | Module | What it does | Status |
 |---|---|---|
-| 🏗️ **Briha App Builder** | Prompt-to-app AI builder: describe an app, get a working UI | 🔒 Private · in development |
-| 🤖 **Briha AI Chatbot (production)** | Live deployment of the flagship chatbot for a real business | 🔒 Private · deployed |
-| 🎙️ **Briha Voice Assistant (production)** | Live deployment of the flagship voice agent | 🔒 Private · deployed |
+|  **Briha App Builder** | Prompt-to-app AI builder: describe an app, get a working UI |  Private · in development |
+|  **Briha AI Chatbot (production)** | Live deployment of the flagship chatbot for a real business |  Private · deployed |
+|  **Briha Voice Assistant (production)** | Live deployment of the flagship voice agent |  Private · deployed |
 
 </details>
 
@@ -243,7 +243,7 @@ class SyedAsadAbbas:
 
 <div align="center">
 
-### 🤝 Let's build the future together
+###  Let's build the future together
 
 **All 26+ projects are part of BRIHA · Open to AI Engineering, Data Analytics, Full-Stack AI and Cloud roles**
 
