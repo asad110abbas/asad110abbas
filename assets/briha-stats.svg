@@ -5,13 +5,13 @@
       <animateTransform attributeName="gradientTransform" type="translate" from="-1 0" to="1 0" dur="5s" repeatCount="indefinite"/>
     </linearGradient>
     <style>
-      .c { fill: #0B1024; stroke: #1E2A4A; stroke-width: 1.4; }
+      .c { fill: #0B0B10; stroke: #1A1A24; stroke-width: 1.4; }
       .n { font: 900 46px 'Segoe UI Black','Arial Black','Segoe UI',Arial,sans-serif; fill: url(#g); }
       .l { font: 700 13px 'Consolas','Fira Code',monospace; fill: #AEB8D6; letter-spacing: 2px; }
       .pop { animation: pop 1s cubic-bezier(.2,1.4,.4,1) both; transform-box: fill-box; transform-origin: center; }
       .glow { animation: glow 3s ease-in-out infinite; }
       @keyframes pop { from { opacity: 0; transform: scale(.6); } to { opacity: 1; transform: scale(1); } }
-      @keyframes glow { 0%,100% { stroke: #1E2A4A; } 50% { stroke: #8B5CF6; } }
+      @keyframes glow { 0%,100% { stroke: #1A1A24; } 50% { stroke: #8B5CF6; } }
     </style>
   </defs>
   <g>
