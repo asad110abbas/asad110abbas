@@ -16,6 +16,29 @@
 
 <img src="./assets/briha-stats.svg" width="100%" alt="BRIHA in numbers" />
 
+<img src="./assets/h-meaning.svg" width="100%" alt="00 THE MEANING OF BRIHA" />
+
+<div align="center">
+  <img src="./assets/briha-meaning.svg" width="100%" alt="To teach is to learn. IMAM ALI (A.S.)" />
+</div>
+
+<table>
+<tr>
+<td width="34%" align="center"><img src="./assets/briha-logo.svg" width="170" alt="BRIHA logo" /></td>
+<td>
+
+### The story of BRIHA has begun
+
+**BRIHA is my AGI world**, a world where AI will train AI on its own. Because **BRIHA** means *creation*, and it is a name of **SHER-E-KHUDA ALI (A.S.)**. That is why BRIHA will one day **create AI by itself**: learning, building and teaching new intelligence, one system at a time.
+
+Fluent AI is easy. **Trustworthy** AI is the hard part. Every BRIHA system validates its own work, grounds every number in real data, and hands off to a human when it should.
+
+<sub>The BRIHA mark: 14 neurons in a rotating ring around a human right hand, half robotic and half neural network.</sub>
+
+</td>
+</tr>
+</table>
+
 <img src="./assets/h-world.svg" width="100%" alt="01 PART OF BRIHA" />
 
 <div align="center">
@@ -33,7 +56,7 @@
 </tr>
 </table>
 
-<img src="./assets/h-flagship.svg" width="100%" alt="02 FLAGSHIP BRIHA AI" />
+<img src="./assets/h-flagship.svg" width="100%" alt="02 BRIHA AI SYSTEMS" />
 
 <table>
 <tr>
@@ -148,7 +171,7 @@
 
 ### Briha Research
 
-*AI experiments: RAG, transformer fine-tuning, local LLMs, OCR and data mining. These are the foundations the flagship systems grew from.*
+*AI experiments: RAG, transformer fine-tuning, local LLMs, OCR and data mining. These are the foundations the BRIHA AI systems grew from.*
 
 <p align="center">
   <a href="https://github.com/asad110abbas/RAG-based-AI-Chat-Bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=asad110abbas&repo=RAG-based-AI-Chat-Bot&bg_color=0B1024&title_color=00F0FF&text_color=E6ECFF&icon_color=FF2E97&border_color=1E2A4A" width="49%"/></a>
@@ -174,8 +197,8 @@
 | Module | What it does | Status |
 |---|---|---|
 |  **Briha App Builder** | Prompt-to-app AI builder: describe an app, get a working UI |  Private · in development |
-|  **Briha AI Chatbot (production)** | Live deployment of the flagship chatbot for a real business |  Private · deployed |
-|  **Briha Voice Assistant (production)** | Live deployment of the flagship voice agent |  Private · deployed |
+|  **Briha AI Chatbot (production)** | Live deployment of the BRIHA AI Chatbot for a real business |  Private · deployed |
+|  **Briha Voice Assistant (production)** | Live deployment of the BRIHA voice agent |  Private · deployed |
 
 </details>
 
@@ -207,6 +230,8 @@
 ```python
 class SyedAsadAbbas:
     brand    = "BRIHA — The Genesis of AGI"
+    meaning  = "BRIHA is a name of IMAM ALI (A.S.): To teach is to learn."
+    lives_in = 2050
     role     = "AI & Data Engineer"
     world    = {
         "ai":          ["Multi-agent LLMs", "Real-time Voice AI", "RAG", "Fine-tuning"],
