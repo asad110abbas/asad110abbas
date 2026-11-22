@@ -39,7 +39,7 @@
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/asad110abbas/briha-ai-chatbot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=asad110abbas&repo=briha-ai-chatbot&bg_color=010102&title_color=FD8F32&text_color=FD8F32&icon_color=FD8F32&border_color=7022FC&show_owner=false" width="100%"/></a>
+<a href="https://github.com/asad110abbas/multi-agentic-ai-bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=asad110abbas&repo=multi-agentic-ai-bot&bg_color=010102&title_color=FD8F32&text_color=FD8F32&icon_color=FD8F32&border_color=7022FC&show_owner=false" width="100%"/></a>
 
 ### Multi-Agentic AI Bot
 *Ask "aaj kitna bika?" and get a **verified** answer in seconds.*
@@ -57,7 +57,7 @@
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/asad110abbas/briha-ai-voice-assistant"><img src="https://github-readme-stats.vercel.app/api/pin/?username=asad110abbas&repo=briha-ai-voice-assistant&bg_color=010102&title_color=FD8F32&text_color=FD8F32&icon_color=FD8F32&border_color=7022FC&show_owner=false" width="100%"/></a>
+<a href="https://github.com/asad110abbas/ai-voice-assistant-pro"><img src="https://github-readme-stats.vercel.app/api/pin/?username=asad110abbas&repo=ai-voice-assistant-pro&bg_color=010102&title_color=FD8F32&text_color=FD8F32&icon_color=FD8F32&border_color=7022FC&show_owner=false" width="100%"/></a>
 
 ### AI Voice Assistant
 *A support agent that **listens, thinks and speaks** in English, Urdu and Roman Urdu.*
