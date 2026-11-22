@@ -78,7 +78,7 @@
 
 <a href="https://github.com/asad110abbas/seo-automation-bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=asad110abbas&repo=seo-automation-bot&bg_color=010102&title_color=FD8F32&text_color=FD8F32&icon_color=FD8F32&border_color=7022FC&show_owner=false" width="49%" align="right"/></a>
 
-### Briha SEO Automation Bot
+### SEO Automation Bot
 *An entire SEO team replaced by **7 AI agents**, for local businesses.*
 
 - **Orchestrator + 7 agents:** audit, keywords, competitors, Google Business Profile, content, links, PDF reports
