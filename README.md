@@ -2,7 +2,7 @@
 
 <img src="./assets/briha-hero.svg" width="100%" alt="BRIHA — The Genesis of AGI — by Syed Asad Abbas" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2600&pause=700&color=FD8F32&center=true&vCenter=true&width=860&height=48&lines=BRIHA+%E2%80%94+The+Genesis+of+AGI;Multi-agent+LLMs+that+never+invent+numbers;Real-time+Voice+AI+in+English+%2B+Urdu;Shipped+with+Docker+%2B+Vercel;Data+%E2%80%A2+Forecasting+%E2%80%A2+Power+BI+%E2%80%A2+SQL" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2600&pause=700&color=FD8F32&center=true&vCenter=true&width=860&height=48&lines=BRIHA+AI+HUB+%E2%80%94+The+Genesis+of+AGI;Multi-agent+LLMs+that+never+invent+numbers;Real-time+Voice+AI+in+English+%2B+Urdu;Shipped+with+Docker+%2B+Vercel;Data+%E2%80%A2+Forecasting+%E2%80%A2+Power+BI+%E2%80%A2+SQL" alt="Typing SVG" /></a>
 
 <p>
   <a href="https://www.linkedin.com/in/syed-asad-abbas-28151b302"><img src="https://img.shields.io/badge/LinkedIn-Connect-7022FC?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=010102" /></a>
@@ -33,7 +33,7 @@
 </tr>
 </table>
 
-<img src="./assets/h-flagship.svg" width="100%" alt="02 BRIHA AI SYSTEMS" />
+<img src="./assets/h-flagship.svg" width="100%" alt="02 BRIHA AI HUB" />
 
 <table>
 <tr>
@@ -107,7 +107,7 @@
 | <img src="https://skillicons.dev/icons?i=nginx" width="22"/> **Nginx + Linux VM** | HTTPS reverse proxy, static frontend serving and on-prem deployment for private data |
 | <img src="https://skillicons.dev/icons?i=postgres" width="22"/> **PostgreSQL** | Production database with Alembic migrations and nightly backups |
 
-<img src="./assets/h-lab.svg" width="100%" alt="04 BRIHA DATA LAB AND ENGINEERING" />
+<img src="./assets/h-lab.svg" width="100%" alt="04 BRIHA AI HUB: DATA AND ENGINEERING" />
 
 <p align="center">
   <a href="https://github.com/asad110abbas/retail-sales-powerbi-dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=asad110abbas&repo=retail-sales-powerbi-dashboard&bg_color=010102&title_color=FD8F32&text_color=F4F2FA&icon_color=F4F2FA&border_color=1E1B2A" width="49%"/></a>
@@ -117,7 +117,7 @@
 </p>
 
 <details open>
-<summary><b>Briha Data Lab: analytics, BI and machine learning</b></summary>
+<summary><b>AI HUB Data Lab: analytics, BI and machine learning</b></summary>
 <br/>
 
 | Module | What it does | Stack |
@@ -134,7 +134,7 @@
 </details>
 
 <details>
-<summary><b>Briha Engineering: APIs, UIs and services (click to expand)</b></summary>
+<summary><b>AI HUB Engineering: APIs, UIs and services (click to expand)</b></summary>
 <br/>
 
 | Module | What it does | Stack |
@@ -146,9 +146,9 @@
 
 </details>
 
-### Briha Research
+### AI HUB Research
 
-*AI experiments: RAG, transformer fine-tuning, local LLMs, OCR and data mining. These are the foundations the BRIHA AI systems grew from.*
+*AI experiments: RAG, transformer fine-tuning, local LLMs, OCR and data mining. These are the foundations the BRIHA AI HUB grew from.*
 
 <p align="center">
   <a href="https://github.com/asad110abbas/RAG-based-AI-Chat-Bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=asad110abbas&repo=RAG-based-AI-Chat-Bot&bg_color=010102&title_color=FD8F32&text_color=F4F2FA&icon_color=F4F2FA&border_color=1E1B2A" width="49%"/></a>
@@ -168,7 +168,7 @@
 |  [**Gender Identification**](https://github.com/asad110abbas/Gender_Identification) | Name-based gender enrichment via API, in batches | pandas · REST API |
 
 <details>
-<summary><b>Briha Labs: in development (click to expand)</b></summary>
+<summary><b>AI HUB: in development (click to expand)</b></summary>
 <br/>
 
 | Module | What it does | Status |
@@ -206,7 +206,7 @@
 
 ```python
 class SyedAsadAbbas:
-    brand    = "BRIHA — The Genesis of AGI"
+    brand    = "BRIHA AI HUB — The Genesis of AGI"
     meaning  = "BRIHA is a name of IMAM ALI (A.S.): To teach is to learn."
     lives_in = 2050
     role     = "AI & Data Engineer"
@@ -224,7 +224,7 @@ class SyedAsadAbbas:
         return idea | build | test | dockerize | deploy("vercel")   # idea -> production
 ```
 
-<img src="./assets/h-signal.svg" width="100%" alt="07 SIGNAL FROM THE LAB" />
+<img src="./assets/h-signal.svg" width="100%" alt="07 SIGNAL FROM THE AI HUB" />
 
 <div align="center">
 
@@ -247,7 +247,7 @@ class SyedAsadAbbas:
 
 ### Let's build the future together
 
-**All 26+ projects are part of BRIHA · Open to AI Engineering, Data Analytics, Full-Stack AI and Cloud roles**
+**All 26+ projects are part of the BRIHA AI HUB · Open to AI Engineering, Data Analytics, Full-Stack AI and Cloud roles**
 
 <a href="https://www.linkedin.com/in/syed-asad-abbas-28151b302"><img src="https://img.shields.io/badge/Let's_talk_on_LinkedIn-7022FC?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/asad110abbas?tab=repositories"><img src="https://img.shields.io/badge/Explore_BRIHA-7022FC?style=for-the-badge&logo=github&logoColor=white" /></a>
