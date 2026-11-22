@@ -2,19 +2,19 @@
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#010102"/>
-      <stop offset="0.55" stop-color="#08080C"/>
-      <stop offset="1" stop-color="#09080E"/>
+      <stop offset="0.55" stop-color="#010102"/>
+      <stop offset="1" stop-color="#010102"/>
     </linearGradient>
     <linearGradient id="word" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox">
       <stop offset="0" stop-color="#FD8F32"/>
       <stop offset="0.35" stop-color="#7022FC"/>
-      <stop offset="0.7" stop-color="#F4F2FA"/>
+      <stop offset="0.7" stop-color="#FD8F32"/>
       <stop offset="1" stop-color="#FD8F32"/>
       <animateTransform attributeName="gradientTransform" type="translate" from="-1 0" to="1 0" dur="6s" repeatCount="indefinite"/>
     </linearGradient>
     <radialGradient id="orbCore" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0" stop-color="#FFFFFF"/>
-      <stop offset="0.25" stop-color="#FFB16A"/>
+      <stop offset="0" stop-color="#FD8F32"/>
+      <stop offset="0.25" stop-color="#FD8F32"/>
       <stop offset="0.6" stop-color="#7022FC" stop-opacity="0.85"/>
       <stop offset="1" stop-color="#7022FC" stop-opacity="0"/>
     </radialGradient>
@@ -31,22 +31,22 @@
       <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M40 0H0V40" fill="none" stroke="#1E1B2A" stroke-width="0.6"/>
+      <path d="M40 0H0V40" fill="none" stroke="#7022FC" stroke-width="0.6"/>
     </pattern>
     <style>
-      .node { fill: #FFB16A; animation: pulse 3s ease-in-out infinite; }
-      .node.v { fill: #FFA552; }
-      .node.m { fill: #FFA552; }
+      .node { fill: #FD8F32; animation: pulse 3s ease-in-out infinite; }
+      .node.v { fill: #FD8F32; }
+      .node.m { fill: #FD8F32; }
       .link { stroke: url(#word); stroke-width: 1.2; fill: none; opacity: 0.55;
               stroke-dasharray: 6 10; animation: flow 4s linear infinite; }
       .ring { fill: none; stroke-width: 1.6; transform-origin: 960px 215px; }
       .r1 { stroke: #FD8F32; stroke-dasharray: 4 14; animation: spin 14s linear infinite; }
       .r2 { stroke: #7022FC; stroke-dasharray: 60 30; animation: spin 9s linear infinite reverse; }
-      .r3 { stroke: #F4F2FA; stroke-dasharray: 2 8; animation: spin 20s linear infinite; }
-      .tag { font: 600 26px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; letter-spacing: 9px; fill: #F4F2FA; }
-      .name { font: 600 22px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #FFFFFF; }
-      .role { font: 500 15px 'Consolas', 'Fira Code', monospace; fill: #FFB16A; letter-spacing: 2px; }
-      .chip { font: 600 13px 'Consolas', 'Fira Code', monospace; fill: #C9A6FF; }
+      .r3 { stroke: #FD8F32; stroke-dasharray: 2 8; animation: spin 20s linear infinite; }
+      .tag { font: 600 26px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; letter-spacing: 9px; fill: #FD8F32; }
+      .name { font: 600 22px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #FD8F32; }
+      .role { font: 500 15px 'Consolas', 'Fira Code', monospace; fill: #FD8F32; letter-spacing: 2px; }
+      .chip { font: 600 13px 'Consolas', 'Fira Code', monospace; fill: #7022FC; }
       .fade1 { animation: fade 1.2s ease-out both; }
       .fade2 { animation: fade 1.2s 0.5s ease-out both; }
       .fade3 { animation: fade 1.2s 1s ease-out both; }
@@ -158,16 +158,16 @@
     <text x="76" y="318" class="name">by Syed Asad Abbas</text>
     <text x="76" y="346" class="role">AI / ML ENGINEER · AGENTIC AI · VOICE AI · ANALYTICS<tspan style="animation: blink 1s step-end infinite">_</tspan></text>
     <g transform="translate(76 368)">
-      <rect width="118" height="28" rx="14" fill="#1A0B3A" stroke="#7022FC" stroke-opacity="0.6"/>
+      <rect width="118" height="28" rx="14" fill="#010102" stroke="#7022FC" stroke-opacity="0.6"/>
       <text x="59" y="19" text-anchor="middle" class="chip">LLM Agents</text>
-      <rect x="128" width="92" height="28" rx="14" fill="#120830" stroke="#FD8F32" stroke-opacity="0.6"/>
-      <text x="174" y="19" text-anchor="middle" class="chip" style="fill:#FFA552">RAG</text>
-      <rect x="230" width="108" height="28" rx="14" fill="#1A0B3A" stroke="#F4F2FA" stroke-opacity="0.6"/>
-      <text x="284" y="19" text-anchor="middle" class="chip" style="fill:#C9A6FF">Voice AI</text>
-      <rect x="348" width="112" height="28" rx="14" fill="#1A0B3A" stroke="#7022FC" stroke-opacity="0.6"/>
+      <rect x="128" width="92" height="28" rx="14" fill="#010102" stroke="#FD8F32" stroke-opacity="0.6"/>
+      <text x="174" y="19" text-anchor="middle" class="chip" style="fill:#FD8F32">RAG</text>
+      <rect x="230" width="108" height="28" rx="14" fill="#010102" stroke="#FD8F32" stroke-opacity="0.6"/>
+      <text x="284" y="19" text-anchor="middle" class="chip" style="fill:#7022FC">Voice AI</text>
+      <rect x="348" width="112" height="28" rx="14" fill="#010102" stroke="#7022FC" stroke-opacity="0.6"/>
       <text x="404" y="19" text-anchor="middle" class="chip">Power BI</text>
-      <rect x="470" width="150" height="28" rx="14" fill="#120830" stroke="#FD8F32" stroke-opacity="0.6"/>
-      <text x="545" y="19" text-anchor="middle" class="chip" style="fill:#FFA552">Docker · Vercel</text>
+      <rect x="470" width="150" height="28" rx="14" fill="#010102" stroke="#FD8F32" stroke-opacity="0.6"/>
+      <text x="545" y="19" text-anchor="middle" class="chip" style="fill:#FD8F32">Docker · Vercel</text>
     </g>
   </g>
 </svg>

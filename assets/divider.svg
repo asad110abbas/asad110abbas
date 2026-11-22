@@ -4,16 +4,16 @@
       <stop offset="0" stop-color="#FD8F32" stop-opacity="0"/>
       <stop offset="0.2" stop-color="#FD8F32"/>
       <stop offset="0.5" stop-color="#7022FC"/>
-      <stop offset="0.8" stop-color="#F4F2FA"/>
-      <stop offset="1" stop-color="#F4F2FA" stop-opacity="0"/>
+      <stop offset="0.8" stop-color="#FD8F32"/>
+      <stop offset="1" stop-color="#FD8F32" stop-opacity="0"/>
     </linearGradient>
     <filter id="g"><feGaussianBlur stdDeviation="2"/></filter>
   </defs>
   <rect x="0" y="11" width="1200" height="2" fill="url(#d)"/>
-  <circle cy="12" r="5" fill="#FFFFFF" filter="url(#g)">
+  <circle cy="12" r="5" fill="#FD8F32" filter="url(#g)">
     <animate attributeName="cx" values="40;1160;40" dur="6s" repeatCount="indefinite"/>
   </circle>
-  <circle cy="12" r="2.5" fill="#FFFFFF">
+  <circle cy="12" r="2.5" fill="#FD8F32">
     <animate attributeName="cx" values="40;1160;40" dur="6s" repeatCount="indefinite"/>
   </circle>
 </svg>

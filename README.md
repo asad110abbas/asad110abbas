@@ -5,11 +5,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2600&pause=700&color=FD8F32&center=true&vCenter=true&width=860&height=48&lines=BRIHA+AI+HUB+%E2%80%94+The+Genesis+of+AGI;Multi-agent+LLMs+that+never+invent+numbers;Real-time+Voice+AI+in+English+%2B+Urdu;Shipped+with+Docker+%2B+Vercel;Data+%E2%80%A2+Forecasting+%E2%80%A2+Power+BI+%E2%80%A2+SQL" alt="Typing SVG" /></a>
 
 <p>
-  <a href="https://www.linkedin.com/in/syed-asad-abbas-28151b302"><img src="https://img.shields.io/badge/LinkedIn-Connect-7022FC?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=010102" /></a>
-  <a href="https://github.com/asad110abbas?tab=repositories"><img src="https://img.shields.io/badge/Part_of-BRIHA-7022FC?style=for-the-badge&logo=probot&logoColor=white&labelColor=010102" /></a>
-  <img src="https://img.shields.io/badge/Deployed_on-Vercel-FD8F32?style=for-the-badge&logo=vercel&logoColor=white&labelColor=010102" />
-  <img src="https://img.shields.io/badge/Shipped_with-Docker-7022FC?style=for-the-badge&logo=docker&logoColor=white&labelColor=010102" />
-  <img src="https://komarev.com/ghpvc/?username=asad110abbas&label=Visitors&color=F4F2FA&style=for-the-badge&labelColor=010102" />
+  <a href="https://www.linkedin.com/in/syed-asad-abbas-28151b302"><img src="https://img.shields.io/badge/LinkedIn-Connect-7022FC?style=for-the-badge&logo=linkedin&logoColor=FD8F32&labelColor=010102" /></a>
+  <a href="https://github.com/asad110abbas?tab=repositories"><img src="https://img.shields.io/badge/Part_of-BRIHA-7022FC?style=for-the-badge&logo=probot&logoColor=FD8F32&labelColor=010102" /></a>
+  <img src="https://img.shields.io/badge/Deployed_on-Vercel-FD8F32?style=for-the-badge&logo=vercel&logoColor=FD8F32&labelColor=010102" />
+  <img src="https://img.shields.io/badge/Shipped_with-Docker-7022FC?style=for-the-badge&logo=docker&logoColor=FD8F32&labelColor=010102" />
+  <img src="https://komarev.com/ghpvc/?username=asad110abbas&label=Visitors&color=FD8F32&style=for-the-badge&labelColor=010102" />
 </p>
 
 </div>
@@ -39,9 +39,9 @@
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/asad110abbas/briha-ai-chatbot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=asad110abbas&repo=briha-ai-chatbot&bg_color=010102&title_color=FD8F32&text_color=F4F2FA&icon_color=F4F2FA&border_color=2A2340&show_owner=false" width="100%"/></a>
+<a href="https://github.com/asad110abbas/briha-ai-chatbot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=asad110abbas&repo=briha-ai-chatbot&bg_color=010102&title_color=FD8F32&text_color=FD8F32&icon_color=FD8F32&border_color=7022FC&show_owner=false" width="100%"/></a>
 
-### Briha AI Chatbot
+### Multi-Agentic AI Bot
 *Ask "aaj kitna bika?" and get a **verified** answer in seconds.*
 
 - **4-agent pipeline:** Understand → Retrieve → Validate → Respond
@@ -49,17 +49,17 @@
 - **Bilingual:** English and Roman Urdu, streamed live over SSE
 - **Secure:** Argon2, sessions, rate limits, audit log · **78 tests**
 
-<img src="https://img.shields.io/badge/Vercel-Deployed-000000?style=flat-square&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-Compose-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/GPT--5-Gemini-412991?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-React_19-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-Deployed-010102?style=flat-square&logo=vercel&logoColor=FD8F32"/>
+<img src="https://img.shields.io/badge/Docker-Compose-7022FC?style=flat-square&logo=docker&logoColor=FD8F32"/>
+<img src="https://img.shields.io/badge/GPT--5-Gemini-7022FC?style=flat-square&logo=openai&logoColor=FD8F32"/>
+<img src="https://img.shields.io/badge/FastAPI-React_19-7022FC?style=flat-square&logo=fastapi&logoColor=FD8F32"/>
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/asad110abbas/briha-ai-voice-assistant"><img src="https://github-readme-stats.vercel.app/api/pin/?username=asad110abbas&repo=briha-ai-voice-assistant&bg_color=010102&title_color=FD8F32&text_color=F4F2FA&icon_color=F4F2FA&border_color=2A2340&show_owner=false" width="100%"/></a>
+<a href="https://github.com/asad110abbas/briha-ai-voice-assistant"><img src="https://github-readme-stats.vercel.app/api/pin/?username=asad110abbas&repo=briha-ai-voice-assistant&bg_color=010102&title_color=FD8F32&text_color=FD8F32&icon_color=FD8F32&border_color=7022FC&show_owner=false" width="100%"/></a>
 
-### Briha AI Voice Assistant
+### AI Voice Assistant
 *A support agent that **listens, thinks and speaks** in English, Urdu and Roman Urdu.*
 
 - **Live voice:** audio over WebSockets → Gemini with function calling
@@ -67,16 +67,16 @@
 - **Human hand-off:** smart escalation with ticket and transcript
 - **Agent dashboard:** tickets, call records, analytics, exports
 
-<img src="https://img.shields.io/badge/Docker-Containerized-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini-Voice-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
-<img src="https://img.shields.io/badge/ChromaDB-RAG-FF6F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/Docker-Containerized-7022FC?style=flat-square&logo=docker&logoColor=FD8F32"/>
+<img src="https://img.shields.io/badge/Gemini-Voice-7022FC?style=flat-square&logo=googlegemini&logoColor=FD8F32"/>
+<img src="https://img.shields.io/badge/ChromaDB-RAG-7022FC?style=flat-square"/>
 
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
 
-<a href="https://github.com/asad110abbas/seo-automation-bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=asad110abbas&repo=seo-automation-bot&bg_color=010102&title_color=FD8F32&text_color=F4F2FA&icon_color=F4F2FA&border_color=2A2340&show_owner=false" width="49%" align="right"/></a>
+<a href="https://github.com/asad110abbas/seo-automation-bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=asad110abbas&repo=seo-automation-bot&bg_color=010102&title_color=FD8F32&text_color=FD8F32&icon_color=FD8F32&border_color=7022FC&show_owner=false" width="49%" align="right"/></a>
 
 ### Briha SEO Automation Bot
 *An entire SEO team replaced by **7 AI agents**, for local businesses.*
@@ -85,9 +85,9 @@
 - **Async at scale:** Celery + Redis jobs with live WebSocket progress
 - **Cost-aware:** per-run token and cost tracking, rate limits, JWT auth
 
-<img src="https://img.shields.io/badge/Groq-Llama_3.3-F55036?style=flat-square"/>
-<img src="https://img.shields.io/badge/FastAPI-Next.js_14-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-Compose-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq-Llama_3.3-7022FC?style=flat-square"/>
+<img src="https://img.shields.io/badge/FastAPI-Next.js_14-7022FC?style=flat-square&logo=fastapi&logoColor=FD8F32"/>
+<img src="https://img.shields.io/badge/Docker-Compose-7022FC?style=flat-square&logo=docker&logoColor=FD8F32"/>
 
 </td>
 </tr>
@@ -101,7 +101,7 @@
 
 | Platform | How BRIHA uses it |
 |---|---|
-| <img src="https://skillicons.dev/icons?i=vercel" width="22"/> **Vercel** | Briha AI Chatbot deployed to the cloud |
+| <img src="https://skillicons.dev/icons?i=vercel" width="22"/> **Vercel** | Multi-Agentic AI Bot deployed to the cloud |
 | <img src="https://skillicons.dev/icons?i=docker" width="22"/> **Docker / Compose** | Every service containerized: API + PostgreSQL + Nginx stacks, reproducible on any machine or VM |
 | <img src="https://skillicons.dev/icons?i=githubactions" width="22"/> **GitHub Actions** | CI on every push: tests, type checks and builds across Python, TypeScript, Java, Go and R repos |
 | <img src="https://skillicons.dev/icons?i=nginx" width="22"/> **Nginx + Linux VM** | HTTPS reverse proxy, static frontend serving and on-prem deployment for private data |
@@ -110,10 +110,10 @@
 <img src="./assets/h-lab.svg" width="100%" alt="04 BRIHA AI HUB: DATA AND ENGINEERING" />
 
 <p align="center">
-  <a href="https://github.com/asad110abbas/retail-sales-powerbi-dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=asad110abbas&repo=retail-sales-powerbi-dashboard&bg_color=010102&title_color=FD8F32&text_color=F4F2FA&icon_color=F4F2FA&border_color=1E1B2A" width="49%"/></a>
-  <a href="https://github.com/asad110abbas/inventory-demand-forecasting"><img src="https://github-readme-stats.vercel.app/api/pin/?username=asad110abbas&repo=inventory-demand-forecasting&bg_color=010102&title_color=FD8F32&text_color=F4F2FA&icon_color=F4F2FA&border_color=1E1B2A" width="49%"/></a>
-  <a href="https://github.com/asad110abbas/sql-sales-analytics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=asad110abbas&repo=sql-sales-analytics&bg_color=010102&title_color=FD8F32&text_color=F4F2FA&icon_color=F4F2FA&border_color=1E1B2A" width="49%"/></a>
-  <a href="https://github.com/asad110abbas/customer-churn-prediction"><img src="https://github-readme-stats.vercel.app/api/pin/?username=asad110abbas&repo=customer-churn-prediction&bg_color=010102&title_color=FD8F32&text_color=F4F2FA&icon_color=F4F2FA&border_color=1E1B2A" width="49%"/></a>
+  <a href="https://github.com/asad110abbas/retail-sales-powerbi-dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=asad110abbas&repo=retail-sales-powerbi-dashboard&bg_color=010102&title_color=FD8F32&text_color=FD8F32&icon_color=FD8F32&border_color=7022FC" width="49%"/></a>
+  <a href="https://github.com/asad110abbas/inventory-demand-forecasting"><img src="https://github-readme-stats.vercel.app/api/pin/?username=asad110abbas&repo=inventory-demand-forecasting&bg_color=010102&title_color=FD8F32&text_color=FD8F32&icon_color=FD8F32&border_color=7022FC" width="49%"/></a>
+  <a href="https://github.com/asad110abbas/sql-sales-analytics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=asad110abbas&repo=sql-sales-analytics&bg_color=010102&title_color=FD8F32&text_color=FD8F32&icon_color=FD8F32&border_color=7022FC" width="49%"/></a>
+  <a href="https://github.com/asad110abbas/customer-churn-prediction"><img src="https://github-readme-stats.vercel.app/api/pin/?username=asad110abbas&repo=customer-churn-prediction&bg_color=010102&title_color=FD8F32&text_color=FD8F32&icon_color=FD8F32&border_color=7022FC" width="49%"/></a>
 </p>
 
 <details open>
@@ -151,10 +151,10 @@
 *AI experiments: RAG, transformer fine-tuning, local LLMs, OCR and data mining. These are the foundations the BRIHA AI HUB grew from.*
 
 <p align="center">
-  <a href="https://github.com/asad110abbas/RAG-based-AI-Chat-Bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=asad110abbas&repo=RAG-based-AI-Chat-Bot&bg_color=010102&title_color=FD8F32&text_color=F4F2FA&icon_color=F4F2FA&border_color=1E1B2A" width="49%"/></a>
-  <a href="https://github.com/asad110abbas/Fine_Tuning-Deberta-Base"><img src="https://github-readme-stats.vercel.app/api/pin/?username=asad110abbas&repo=Fine_Tuning-Deberta-Base&bg_color=010102&title_color=FD8F32&text_color=F4F2FA&icon_color=F4F2FA&border_color=1E1B2A" width="49%"/></a>
-  <a href="https://github.com/asad110abbas/AI-ChatBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=asad110abbas&repo=AI-ChatBot&bg_color=010102&title_color=FD8F32&text_color=F4F2FA&icon_color=F4F2FA&border_color=1E1B2A" width="49%"/></a>
-  <a href="https://github.com/asad110abbas/OCR"><img src="https://github-readme-stats.vercel.app/api/pin/?username=asad110abbas&repo=OCR&bg_color=010102&title_color=FD8F32&text_color=F4F2FA&icon_color=F4F2FA&border_color=1E1B2A" width="49%"/></a>
+  <a href="https://github.com/asad110abbas/RAG-based-AI-Chat-Bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=asad110abbas&repo=RAG-based-AI-Chat-Bot&bg_color=010102&title_color=FD8F32&text_color=FD8F32&icon_color=FD8F32&border_color=7022FC" width="49%"/></a>
+  <a href="https://github.com/asad110abbas/Fine_Tuning-Deberta-Base"><img src="https://github-readme-stats.vercel.app/api/pin/?username=asad110abbas&repo=Fine_Tuning-Deberta-Base&bg_color=010102&title_color=FD8F32&text_color=FD8F32&icon_color=FD8F32&border_color=7022FC" width="49%"/></a>
+  <a href="https://github.com/asad110abbas/AI-ChatBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=asad110abbas&repo=AI-ChatBot&bg_color=010102&title_color=FD8F32&text_color=FD8F32&icon_color=FD8F32&border_color=7022FC" width="49%"/></a>
+  <a href="https://github.com/asad110abbas/OCR"><img src="https://github-readme-stats.vercel.app/api/pin/?username=asad110abbas&repo=OCR&bg_color=010102&title_color=FD8F32&text_color=FD8F32&icon_color=FD8F32&border_color=7022FC" width="49%"/></a>
 </p>
 
 | Module | What it does | Stack |
@@ -174,8 +174,8 @@
 | Module | What it does | Status |
 |---|---|---|
 |  **Briha App Builder** | Prompt-to-app AI builder: describe an app, get a working UI |  Private · in development |
-|  **Briha AI Chatbot (production)** | Live deployment of the BRIHA AI Chatbot for a real business |  Private · deployed |
-|  **Briha Voice Assistant (production)** | Live deployment of the BRIHA voice agent |  Private · deployed |
+|  **Multi-Agentic AI Bot (production)** | Live deployment of the Multi-Agentic AI Bot for a real business |  Private · deployed |
+|  **AI Voice Assistant (production)** | Live deployment of the AI Voice Assistant |  Private · deployed |
 
 </details>
 
@@ -191,15 +191,15 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OpenAI-GPT--5-412991?style=flat-square&logo=openai&logoColor=white&labelColor=010102"/>
-  <img src="https://img.shields.io/badge/Google-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white&labelColor=010102"/>
-  <img src="https://img.shields.io/badge/LangChain-RAG-1C3C3C?style=flat-square&logo=langchain&logoColor=white&labelColor=010102"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black&labelColor=010102"/>
-  <img src="https://img.shields.io/badge/ChromaDB-Vectors-FF6F00?style=flat-square&labelColor=010102"/>
-  <img src="https://img.shields.io/badge/Power_BI-DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black&labelColor=010102"/>
-  <img src="https://img.shields.io/badge/DuckDB-OLAP-FFF000?style=flat-square&logo=duckdb&logoColor=black&labelColor=010102"/>
-  <img src="https://img.shields.io/badge/Streamlit-Apps-FF4B4B?style=flat-square&logo=streamlit&logoColor=white&labelColor=010102"/>
-  <img src="https://img.shields.io/badge/Excel-Automation-217346?style=flat-square&logo=microsoftexcel&logoColor=white&labelColor=010102"/>
+  <img src="https://img.shields.io/badge/OpenAI-GPT--5-7022FC?style=flat-square&logo=openai&logoColor=FD8F32&labelColor=010102"/>
+  <img src="https://img.shields.io/badge/Google-Gemini-7022FC?style=flat-square&logo=googlegemini&logoColor=FD8F32&labelColor=010102"/>
+  <img src="https://img.shields.io/badge/LangChain-RAG-7022FC?style=flat-square&logo=langchain&logoColor=FD8F32&labelColor=010102"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-Transformers-7022FC?style=flat-square&logo=huggingface&logoColor=010102&labelColor=010102"/>
+  <img src="https://img.shields.io/badge/ChromaDB-Vectors-7022FC?style=flat-square&labelColor=010102"/>
+  <img src="https://img.shields.io/badge/Power_BI-DAX-7022FC?style=flat-square&logo=powerbi&logoColor=010102&labelColor=010102"/>
+  <img src="https://img.shields.io/badge/DuckDB-OLAP-7022FC?style=flat-square&logo=duckdb&logoColor=010102&labelColor=010102"/>
+  <img src="https://img.shields.io/badge/Streamlit-Apps-7022FC?style=flat-square&logo=streamlit&logoColor=FD8F32&labelColor=010102"/>
+  <img src="https://img.shields.io/badge/Excel-Automation-7022FC?style=flat-square&logo=microsoftexcel&logoColor=FD8F32&labelColor=010102"/>
 </p>
 
 <img src="./assets/h-builder.svg" width="100%" alt="06 ABOUT THE BUILDER" />
@@ -228,14 +228,14 @@ class SyedAsadAbbas:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=asad110abbas&show_icons=true&count_private=true&include_all_commits=true&bg_color=010102&title_color=FD8F32&text_color=F4F2FA&icon_color=F4F2FA&border_color=2A2340&ring_color=7022FC" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asad110abbas&layout=compact&langs_count=8&bg_color=010102&title_color=FD8F32&text_color=F4F2FA&border_color=2A2340" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=asad110abbas&show_icons=true&count_private=true&include_all_commits=true&bg_color=010102&title_color=FD8F32&text_color=FD8F32&icon_color=FD8F32&border_color=7022FC&ring_color=7022FC" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asad110abbas&layout=compact&langs_count=8&bg_color=010102&title_color=FD8F32&text_color=FD8F32&border_color=7022FC" height="170"/>
 
-<img src="https://streak-stats.demolab.com?user=asad110abbas&background=010102&border=2A2340&ring=F4F2FA&fire=F4F2FA&currStreakNum=FD8F32&sideNums=F4F2FA&currStreakLabel=FD8F32&sideLabels=C9A6FF&dates=948FA3&stroke=2A1660" height="170"/>
+<img src="https://streak-stats.demolab.com?user=asad110abbas&background=010102&border=7022FC&ring=FD8F32&fire=FD8F32&currStreakNum=FD8F32&sideNums=FD8F32&currStreakLabel=FD8F32&sideLabels=7022FC&dates=FD8F32&stroke=7022FC" height="170"/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=asad110abbas&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" width="95%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=asad110abbas&bg_color=010102&color=F4F2FA&line=FD8F32&point=F4F2FA&area=true&area_color=7022FC&title_color=FD8F32&hide_border=true" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asad110abbas&bg_color=010102&color=FD8F32&line=FD8F32&point=FD8F32&area=true&area_color=7022FC&title_color=FD8F32&hide_border=true" width="98%"/>
 
 <img src="https://raw.githubusercontent.com/asad110abbas/asad110abbas/output/github-snake-dark.svg" width="98%" alt="contribution snake" />
 
@@ -249,9 +249,9 @@ class SyedAsadAbbas:
 
 **All 26+ projects are part of the BRIHA AI HUB · Open to AI Engineering, Data Analytics, Full-Stack AI and Cloud roles**
 
-<a href="https://www.linkedin.com/in/syed-asad-abbas-28151b302"><img src="https://img.shields.io/badge/Let's_talk_on_LinkedIn-7022FC?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/asad110abbas?tab=repositories"><img src="https://img.shields.io/badge/Explore_BRIHA-7022FC?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/syed-asad-abbas-28151b302"><img src="https://img.shields.io/badge/Let's_talk_on_LinkedIn-7022FC?style=for-the-badge&logo=linkedin&logoColor=FD8F32" /></a>
+<a href="https://github.com/asad110abbas?tab=repositories"><img src="https://img.shields.io/badge/Explore_BRIHA-7022FC?style=for-the-badge&logo=github&logoColor=FD8F32" /></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:010102,50:7022FC,100:010102&height=130&section=footer&text=BRIHA%20%C2%B7%20The%20Genesis%20of%20AGI&fontSize=22&fontColor=ffffff&fontAlignY=72" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:010102,50:7022FC,100:010102&height=130&section=footer&text=BRIHA%20%C2%B7%20The%20Genesis%20of%20AGI&fontSize=22&fontColor=FD8F32&fontAlignY=72" width="100%" alt="footer" />
