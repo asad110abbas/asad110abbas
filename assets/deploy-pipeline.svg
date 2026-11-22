@@ -1,20 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 230" width="1200" height="230" role="img" aria-label="BRIHA deployment pipeline: Code, CI tests, Docker build, deploy to Vercel and Docker hosts, live">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#050404"/><stop offset="1" stop-color="#0C0808"/>
+      <stop offset="0" stop-color="#010102"/><stop offset="1" stop-color="#09080E"/>
     </linearGradient>
     <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#FF2E3A"/><stop offset=".5" stop-color="#C80012"/><stop offset="1" stop-color="#F5F2F2"/>
+      <stop offset="0" stop-color="#FD8F32"/><stop offset=".5" stop-color="#7022FC"/><stop offset="1" stop-color="#F4F2FA"/>
     </linearGradient>
     <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
     <style>
-      .box { fill: #0B0808; stroke-width: 1.6; }
+      .box { fill: #08080C; stroke-width: 1.6; }
       .ic  { font: 26px 'Segoe UI Emoji', 'Apple Color Emoji', sans-serif; }
       .t   { font: 800 15px 'Segoe UI', Arial, sans-serif; fill: #fff; }
-      .s   { font: 500 11.5px 'Consolas', 'Fira Code', monospace; fill: #BDB3B3; }
-      .hd  { font: 700 12px 'Consolas', monospace; letter-spacing: 3px; fill: #FF6B73; }
+      .s   { font: 500 11.5px 'Consolas', 'Fira Code', monospace; fill: #B8B3C6; }
+      .hd  { font: 700 12px 'Consolas', monospace; letter-spacing: 3px; fill: #FFB16A; }
       .ok  { animation: ok 6s ease-in-out infinite; }
       @keyframes ok { 0%,70% { opacity: .25; } 80%,100% { opacity: 1; } }
     </style>
@@ -24,38 +24,38 @@
   <text x="600" y="34" text-anchor="middle" class="hd">◆ BRIHA SHIP PIPELINE: IDEA TO PRODUCTION ◆</text>
 
   <use href="#track" stroke="url(#line)" stroke-width="3" opacity=".5"/>
-  <circle r="7" fill="#FF2E3A" filter="url(#glow)"><animateMotion dur="6s" repeatCount="indefinite"><mpath href="#track"/></animateMotion></circle>
-  <circle r="5" fill="#F5F2F2" filter="url(#glow)"><animateMotion dur="6s" begin="-2s" repeatCount="indefinite"><mpath href="#track"/></animateMotion></circle>
-  <circle r="5" fill="#FF5560" filter="url(#glow)"><animateMotion dur="6s" begin="-4s" repeatCount="indefinite"><mpath href="#track"/></animateMotion></circle>
+  <circle r="7" fill="#FD8F32" filter="url(#glow)"><animateMotion dur="6s" repeatCount="indefinite"><mpath href="#track"/></animateMotion></circle>
+  <circle r="5" fill="#F4F2FA" filter="url(#glow)"><animateMotion dur="6s" begin="-2s" repeatCount="indefinite"><mpath href="#track"/></animateMotion></circle>
+  <circle r="5" fill="#FFA552" filter="url(#glow)"><animateMotion dur="6s" begin="-4s" repeatCount="indefinite"><mpath href="#track"/></animateMotion></circle>
 
   <g>
-    <rect class="box" x="60" y="70" width="150" height="116" rx="14" stroke="#FF2E3A"/>
-    <text x="135" y="106" text-anchor="middle" class="ic" style="font:900 24px Consolas,monospace;fill:#FF6B73">01</text>
+    <rect class="box" x="60" y="70" width="150" height="116" rx="14" stroke="#FD8F32"/>
+    <text x="135" y="106" text-anchor="middle" class="ic" style="font:900 24px Consolas,monospace;fill:#FFB16A">01</text>
     <text x="135" y="138" text-anchor="middle" class="t">Code</text>
     <text x="135" y="158" text-anchor="middle" class="s">Python · TS · Git</text>
   </g>
   <g>
-    <rect class="box" x="290" y="70" width="150" height="116" rx="14" stroke="#C80012"/>
-    <text x="365" y="106" text-anchor="middle" class="ic" style="font:900 24px Consolas,monospace;fill:#FF6B73">02</text>
+    <rect class="box" x="290" y="70" width="150" height="116" rx="14" stroke="#7022FC"/>
+    <text x="365" y="106" text-anchor="middle" class="ic" style="font:900 24px Consolas,monospace;fill:#FFB16A">02</text>
     <text x="365" y="138" text-anchor="middle" class="t">Test &amp; CI</text>
     <text x="365" y="158" text-anchor="middle" class="s">pytest · GitHub Actions</text>
   </g>
   <g>
-    <rect class="box" x="520" y="70" width="160" height="116" rx="14" stroke="#FF2E3A"/>
-    <text x="600" y="106" text-anchor="middle" class="ic" style="font:900 24px Consolas,monospace;fill:#FF6B73">03</text>
+    <rect class="box" x="520" y="70" width="160" height="116" rx="14" stroke="#FD8F32"/>
+    <text x="600" y="106" text-anchor="middle" class="ic" style="font:900 24px Consolas,monospace;fill:#FFB16A">03</text>
     <text x="600" y="138" text-anchor="middle" class="t">Containerize</text>
     <text x="600" y="158" text-anchor="middle" class="s">Docker · Compose</text>
   </g>
   <g>
-    <rect class="box" x="760" y="70" width="160" height="116" rx="14" stroke="#F5F2F2"/>
-    <text x="840" y="106" text-anchor="middle" class="ic" style="font:900 24px Consolas,monospace;fill:#FF6B73">04</text>
+    <rect class="box" x="760" y="70" width="160" height="116" rx="14" stroke="#F4F2FA"/>
+    <text x="840" y="106" text-anchor="middle" class="ic" style="font:900 24px Consolas,monospace;fill:#FFB16A">04</text>
     <text x="840" y="138" text-anchor="middle" class="t">Deploy</text>
     <text x="840" y="158" text-anchor="middle" class="s">Vercel · Docker host</text>
   </g>
   <g>
-    <rect class="box" x="1000" y="70" width="140" height="116" rx="14" stroke="#FF2E3A"/>
-    <text x="1070" y="106" text-anchor="middle" class="ic" style="font:900 24px Consolas,monospace;fill:#FF6B73">05</text>
+    <rect class="box" x="1000" y="70" width="140" height="116" rx="14" stroke="#FD8F32"/>
+    <text x="1070" y="106" text-anchor="middle" class="ic" style="font:900 24px Consolas,monospace;fill:#FFB16A">05</text>
     <text x="1070" y="138" text-anchor="middle" class="t">Live</text>
-    <text x="1070" y="158" text-anchor="middle" class="s ok" style="fill:#FF2E3A">● online</text>
+    <text x="1070" y="158" text-anchor="middle" class="s ok" style="fill:#FD8F32">● online</text>
   </g>
 </svg>

@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 70" width="1200" height="70" role="img" aria-label="BRIHA AI SYSTEMS">
   <defs>
     <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#FF2E3A"/><stop offset=".4" stop-color="#C80012"/>
-      <stop offset=".7" stop-color="#F5F2F2"/><stop offset="1" stop-color="#FF2E3A"/>
+      <stop offset="0" stop-color="#FD8F32"/><stop offset=".4" stop-color="#7022FC"/>
+      <stop offset=".7" stop-color="#F4F2FA"/><stop offset="1" stop-color="#FD8F32"/>
       <animateTransform attributeName="gradientTransform" type="translate" from="-1 0" to="1 0" dur="5s" repeatCount="indefinite"/>
     </linearGradient>
     <style>
-      .n { font: 700 15px 'Consolas','Fira Code',monospace; fill: #FF6B73; letter-spacing: 2px; }
+      .n { font: 700 15px 'Consolas','Fira Code',monospace; fill: #FFB16A; letter-spacing: 2px; }
       .h { font: 900 30px 'Segoe UI Black','Arial Black','Segoe UI',Arial,sans-serif; letter-spacing: 4px; fill: url(#g); }
       .u { animation: sweep 2.4s ease-out infinite alternate; transform-origin: 70px 58px; }
       @keyframes sweep { from { transform: scaleX(.15); opacity: .4; } to { transform: scaleX(1); opacity: 1; } }
