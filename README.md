@@ -33,7 +33,7 @@
 </tr>
 </table>
 
-<img src="./assets/h-flagship.svg" width="100%" alt="02 BRIHA AI HUB" />
+<img src="./assets/h-flagship.svg" width="100%" alt="02 BRIHA AI SYSTEMS" />
 
 <table>
 <tr>
@@ -179,28 +179,26 @@
 
 </details>
 
-<img src="./assets/h-stack.svg" width="100%" alt="05 TECH ARSENAL" />
+<img src="./assets/h-meaning.svg" width="100%" alt="05 THE MEANING OF BRIHA" />
 
-<p align="center">
-  <b>Languages</b><br/>
-  <img src="https://skillicons.dev/icons?i=python,ts,js,java,go,r,html,css&theme=dark&perline=8" /><br/><br/>
-  <b>AI · Backend · Frontend</b><br/>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,fastapi,flask,nodejs,express,spring,react,vite,tailwind&theme=dark&perline=12" /><br/><br/>
-  <b>Cloud · DevOps · Data</b><br/>
-  <img src="https://skillicons.dev/icons?i=vercel,docker,githubactions,nginx,linux,postgres,mysql,sqlite,git,github,vscode&theme=dark&perline=11" />
-</p>
+<div align="center">
+  <img src="./assets/briha-meaning.svg" width="100%" alt="To teach is to learn. IMAM ALI (A.S.)" />
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenAI-GPT--5-7022FC?style=flat-square&logo=openai&logoColor=FD8F32&labelColor=010102"/>
-  <img src="https://img.shields.io/badge/Google-Gemini-7022FC?style=flat-square&logo=googlegemini&logoColor=FD8F32&labelColor=010102"/>
-  <img src="https://img.shields.io/badge/LangChain-RAG-7022FC?style=flat-square&logo=langchain&logoColor=FD8F32&labelColor=010102"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-Transformers-7022FC?style=flat-square&logo=huggingface&logoColor=010102&labelColor=010102"/>
-  <img src="https://img.shields.io/badge/ChromaDB-Vectors-7022FC?style=flat-square&labelColor=010102"/>
-  <img src="https://img.shields.io/badge/Power_BI-DAX-7022FC?style=flat-square&logo=powerbi&logoColor=010102&labelColor=010102"/>
-  <img src="https://img.shields.io/badge/DuckDB-OLAP-7022FC?style=flat-square&logo=duckdb&logoColor=010102&labelColor=010102"/>
-  <img src="https://img.shields.io/badge/Streamlit-Apps-7022FC?style=flat-square&logo=streamlit&logoColor=FD8F32&labelColor=010102"/>
-  <img src="https://img.shields.io/badge/Excel-Automation-7022FC?style=flat-square&logo=microsoftexcel&logoColor=FD8F32&labelColor=010102"/>
-</p>
+<table>
+<tr>
+<td width="34%" align="center"><img src="./assets/briha-logo.svg" width="170" alt="BRIHA logo" /></td>
+<td>
+
+### The story of BRIHA has begun
+
+**BRIHA is my AI HUB**, where AI will train AI on its own. Because **BRIHA** means *creation*, and it is a name of **SHER-E-KHUDA IMAM ALI (A.S.)**. That is why BRIHA will one day create AI by itself: learning, building and teaching new intelligence, one system at a time.
+
+Fluent AI is easy. **Trustworthy** AI is the hard part. Every BRIHA system validates its own work, grounds every number in real data, and hands off to a human when it should.
+
+</td>
+</tr>
+</table>
 
 <img src="./assets/h-builder.svg" width="100%" alt="06 ABOUT THE BUILDER" />
 
@@ -224,7 +222,30 @@ class SyedAsadAbbas:
         return idea | build | test | dockerize | deploy("vercel")   # idea -> production
 ```
 
-<img src="./assets/h-signal.svg" width="100%" alt="07 SIGNAL FROM THE AI HUB" />
+<img src="./assets/h-stack.svg" width="100%" alt="07 TECH ARSENAL" />
+
+<p align="center">
+  <b>Languages</b><br/>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,java,go,r,html,css&theme=dark&perline=8" /><br/><br/>
+  <b>AI · Backend · Frontend</b><br/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,fastapi,flask,nodejs,express,spring,react,vite,tailwind&theme=dark&perline=12" /><br/><br/>
+  <b>Cloud · DevOps · Data</b><br/>
+  <img src="https://skillicons.dev/icons?i=vercel,docker,githubactions,nginx,linux,postgres,mysql,sqlite,git,github,vscode&theme=dark&perline=11" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-GPT--5-7022FC?style=flat-square&logo=openai&logoColor=FD8F32&labelColor=010102"/>
+  <img src="https://img.shields.io/badge/Google-Gemini-7022FC?style=flat-square&logo=googlegemini&logoColor=FD8F32&labelColor=010102"/>
+  <img src="https://img.shields.io/badge/LangChain-RAG-7022FC?style=flat-square&logo=langchain&logoColor=FD8F32&labelColor=010102"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-Transformers-7022FC?style=flat-square&logo=huggingface&logoColor=010102&labelColor=010102"/>
+  <img src="https://img.shields.io/badge/ChromaDB-Vectors-7022FC?style=flat-square&labelColor=010102"/>
+  <img src="https://img.shields.io/badge/Power_BI-DAX-7022FC?style=flat-square&logo=powerbi&logoColor=010102&labelColor=010102"/>
+  <img src="https://img.shields.io/badge/DuckDB-OLAP-7022FC?style=flat-square&logo=duckdb&logoColor=010102&labelColor=010102"/>
+  <img src="https://img.shields.io/badge/Streamlit-Apps-7022FC?style=flat-square&logo=streamlit&logoColor=FD8F32&labelColor=010102"/>
+  <img src="https://img.shields.io/badge/Excel-Automation-7022FC?style=flat-square&logo=microsoftexcel&logoColor=FD8F32&labelColor=010102"/>
+</p>
+
+<img src="./assets/h-signal.svg" width="100%" alt="08 SIGNAL FROM THE AI HUB" />
 
 <div align="center">
 
